@@ -1,0 +1,1271 @@
+ID,N.event,Event.date,Region,Province,Municipality,River,Age class,Gender,MorphologicalZone,Corine class,Place,Distance,Density,CodScen,Solid,ReturnPeriod
+6001,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,<=14,Female,Plain,11,River,3.7,0.032,outside,Yes,<2
+6002,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,<=14,Female,Plain,13,River,1.6,0.032,outside,Yes,<2
+6003,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,<=14,Male,Plain,13,River,7.5,0.062,outside,Yes,<2
+6004,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,<=14,Female,Plain,14,River,13.3,0.032,outside,Yes,<2
+6005,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,<=14,Male,Plain,14,River,4.8,0.054,outside,Yes,<2
+6006,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,<=14,Female,Plain,14,River,8.4,0.062,outside,Yes,<2
+6007,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,>=75,Female,Plain,14,Bridge,12.7,0.032,outside,Yes,<2
+6008,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,>=75,Male,Plain,24,Outdoor,23,0.062,outside,Yes,<2
+6009,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,24,Outdoor,20.4,0.032,outside,Yes,<2
+6010,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,24,Outdoor,21.9,0.054,outside,Yes,<2
+6011,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,24,Outdoor,23.5,0.054,outside,Yes,<2
+6012,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,24,Outdoor,29.6,0.032,outside,Yes,<2
+6013,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,50-64,Male,Plain,24,Outdoor,20.4,0.032,outside,Yes,<2
+6014,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,50-64,Male,Plain,31,Outdoor,17,0.054,outside,Yes,<2
+6015,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,50-64,Male,Plain,31,Outdoor,34,0.054,outside,Yes,<2
+6016,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,50-64,Male,Plain,31,River,37.8,0.062,outside,Yes,<2
+6017,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,50-64,Male,Plain,31,River,52.8,0.054,outside,Yes,<2
+6018,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,50-64,Female,Plain,31,River,39.1,0.032,outside,Yes,<2
+6019,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,65-74,Male,Plain,31,River,53.4,0.189,outside,Yes,<2
+6020,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,<=14,Female,Plain,33,River,55.1,0.054,outside,Yes,<2
+6021,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,<=14,Female,Plain,33,River,49.7,0.054,outside,Yes,<2
+6022,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,<=14,Female,Plain,33,River,34.1,0.054,outside,Yes,<2
+6023,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,<=14,Female,Plain,33,River,38.1,0.062,outside,Yes,<2
+6024,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,15-29,Female,Plain,33,River,31.3,0.032,outside,Yes,<2
+6025,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,15-29,Male,Plain,33,River,91.6,0.054,outside,Yes,<2
+6026,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,15-29,Male,Plain,33,River,88.2,0.054,outside,Yes,<2
+6027,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,15-29,Male,Plain,33,River,67.5,0.054,outside,Yes,<2
+6028,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,15-29,Female,Plain,33,River,96.2,0.032,outside,Yes,<2
+6029,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,33,River,74.3,0.054,outside,Yes,<2
+6030,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,33,River,92.8,0.062,outside,Yes,<2
+6031,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Male,Plain,33,River,74.1,0.062,outside,Yes,<2
+6032,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Male,Plain,33,River,87.1,0.062,outside,Yes,<2
+6033,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,33,River,88,0.189,outside,Yes,<2
+6034,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,33,River,185.1,0.062,outside,Yes,<2
+6035,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,33,River,124.4,0.189,outside,Yes,<2
+6036,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Male,Plain,33,River,127.8,0.189,outside,Yes,<2
+6037,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Male,Plain,33,River,134.6,0.062,outside,Yes,<2
+6038,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,33,River,191.2,0.032,outside,Yes,<2
+6039,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Female,Plain,33,River,158.1,0.054,outside,Yes,<2
+6040,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Male,Plain,33,River,149.8,0.189,outside,Yes,<2
+6041,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,30-49,Male,Plain,51,River,140,0.189,outside,Yes,<2
+6042,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,50-64,Female,Plain,51,River,160.3,0.032,outside,Yes,<2
+6043,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,50-64,Male,Plain,51,River,187.1,0.062,outside,Yes,<2
+6044,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,65-74,Male,Plain,51,River,135.4,0.032,outside,Yes,<2
+6045,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,65-74,Male,Plain,51,River,195.1,0.062,outside,Yes,<2
+6046,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,>=75,Male,Plain,51,River,154.2,0.189,outside,Yes,<2
+6047,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,65-74,Female,Plain,51,River,335.7,0.189,outside,Yes,<2
+6048,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,65-74,Female,Plain,51,Outdoor,264.5,0.054,outside,Yes,<2
+6049,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,65-74,Female,Plain,51,Outdoor,314,0.189,outside,Yes,<2
+6050,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,65-74,Male,Plain,51,Outdoor,227.7,0.054,outside,Yes,<2
+6051,203125,11/6/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,50-64,Female,Mountain,31,Outdoor,27.1,0.022,outside,na,<2
+6052,203125,11/6/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,50-64,Male,Mountain,21,Outdoor,44.5,0.022,outside,na,<2
+6053,203125,11/6/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,50-64,Male,Mountain,21,Outdoor,49.3,0.029,outside,na,<2
+6054,203125,11/6/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,30-49,Male,Mountain,31,Outdoor,34.1,0.009,outside,na,<2
+6055,203125,11/6/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,30-49,Male,Mountain,21,Outdoor,16.7,0.022,outside,na,<2
+6056,203125,11/6/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,15-29,Female,Mountain,21,Outdoor,35.7,0.022,outside,na,<2
+6057,203125,11/6/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,15-29,Male,Mountain,31,Outdoor,34.3,0.009,outside,na,<2
+6058,203125,11/6/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,<=14,Male,Mountain,21,Outdoor,75.8,0.029,outside,na,<2
+6059,203125,11/6/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,65-74,Male,Mountain,24,Outdoor,71.5,0.029,outside,na,<2
+6060,203125,11/6/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,65-74,Male,Mountain,21,Outdoor,74.1,0.009,outside,na,<2
+6061,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,30-49,Male,Mountain,11,Outdoor,5.4,0.023,L,Yes,>200
+6062,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,30-49,Male,Mountain,21,River,50,0.023,L,Yes,>200
+6063,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,30-49,Female,Mountain,21,Outdoor,134.2,0.023,L,Yes,>200
+6064,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,30-49,Male,Mountain,21,Outdoor,356.9,0.028,M,Yes,>200
+6065,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,30-49,Male,Mountain,21,Building,429.1,0.028,L,Yes,>200
+6066,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,50-64,Female,Mountain,21,Building,884.6,0.05,L,Yes,>200
+6067,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,<=14,Male,Mountain,23,Building,124.2,0.05,L,Yes,>200
+6068,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,<=14,Female,Mountain,23,Building,392.6,0.05,L,Yes,>200
+6069,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,15-29,Female,Mountain,24,Building,469.7,0.05,L,Yes,>200
+6070,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,15-29,Female,Mountain,24,Building,359.3,0.05,L,Yes,>200
+6071,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,50-64,Male,Mountain,23,River,5.8,0.002,H,Yes,>200
+6072,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,50-64,Male,Mountain,31,River,25.2,0.005,H,Yes,>200
+6073,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,50-64,Female,Mountain,31,River,42.9,0.005,H,Yes,>200
+6074,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,65-74,Male,Mountain,31,River,80.3,0.005,H,Yes,>200
+6075,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,65-74,Female,Mountain,31,River,277.8,0.005,H,Yes,>200
+6076,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,<=14,Female,Mountain,31,Outdoor,2.3,0.006,H,Yes,>200
+6077,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,15-29,Male,Mountain,31,Outdoor,3.9,0.006,H,Yes,>200
+6078,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,30-49,Female,Mountain,31,Outdoor,35.6,0.006,H,Yes,>200
+6079,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,30-49,Female,Mountain,31,Building,42,0.006,H,Yes,>200
+6080,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,50-64,Female,Mountain,31,Building,68.9,0.006,H,Yes,>200
+6081,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,>=75,Female,Mountain,31,Outdoor,6,0.002,outside,Yes,>200
+6082,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,65-74,Female,Mountain,23,Outdoor,29.3,0.005,outside,Yes,>200
+6083,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,<=14,Male,Mountain,31,Outdoor,31.5,0.006,outside,Yes,>200
+6084,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,50-64,Female,Mountain,31,Building,0,0.002,outside,Yes,>200
+6085,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,50-64,Male,Mountain,31,Building,129.2,0.005,outside,Yes,>200
+6086,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,50-64,Female,Mountain,31,Outdoor,4.9,0.005,outside,Yes,>200
+6087,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,15-29,Female,Mountain,23,Outdoor,3,0.005,outside,Yes,>200
+6088,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,65-74,Female,Mountain,31,Building,139.7,0.002,outside,Yes,>200
+6089,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,30-49,Male,Mountain,31,Outdoor,148,0.005,outside,Yes,>200
+6090,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,>=75,Male,Mountain,31,Outdoor,55.5,0.005,outside,Yes,>200
+6091,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,50-64,Male,Mountain,23,Outdoor,20,0.002,outside,Yes,>200
+6092,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,30-49,Male,Mountain,31,River,26.1,0.006,outside,Yes,>200
+6093,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,50-64,Male,Mountain,23,River,17,0.005,outside,Yes,>200
+6094,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,30-49,Male,Mountain,31,River,0,0.005,outside,Yes,>200
+6095,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,<=14,Male,Mountain,31,River,10.3,0.002,outside,Yes,>200
+6096,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,30-49,Female,Mountain,31,River,13.2,0.002,outside,Yes,>200
+6097,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,50-64,Female,Mountain,23,Outdoor,14.9,0.002,outside,Yes,>200
+6098,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,>=75,Female,Mountain,31,River,8.1,0.002,outside,Yes,>200
+6099,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,30-49,Male,Mountain,31,River,9.6,0.006,outside,Yes,>200
+6100,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,30-49,Female,Mountain,31,River,7.6,0.006,outside,Yes,>200
+6101,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,30-49,Male,Mountain,23,River,8.9,0.006,outside,Yes,>200
+6102,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,50-64,Female,Mountain,31,River,5.2,0.002,outside,Yes,>200
+6103,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,65-74,Female,Mountain,31,River,1.4,0.006,outside,Yes,>200
+6104,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,65-74,Female,Mountain,23,River,47.7,0.006,outside,Yes,>200
+6105,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,>=75,Female,Mountain,23,Building,57.4,0.002,outside,Yes,>200
+6106,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,65-74,Male,Mountain,31,River,98.1,0.002,outside,Yes,>200
+6107,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,30-49,Female,Mountain,31,River,74.2,0.005,outside,Yes,>200
+6108,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,65-74,Male,Mountain,31,Building,149.4,0.005,outside,Yes,>200
+6109,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,65-74,Female,Mountain,31,River,161.7,0.006,outside,Yes,>200
+6110,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,65-74,Male,Mountain,31,Building,156.9,0.006,outside,Yes,>200
+6111,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,<=14,Female,Plain,32,Outdoor,25.5,0.016,M,Yes,(100-200)
+6112,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,50-64,Male,Plain,51,Outdoor,77.8,0.008,M,Yes,(100-200)
+6113,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,50-64,Male,Plain,21,River,175.2,0.012,H,Yes,(100-200)
+6114,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,30-49,Female,Plain,51,Outdoor,328.7,0.012,H,Yes,(100-200)
+6115,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,30-49,Male,Plain,13,Outdoor,403.9,0.016,H,Yes,(100-200)
+6116,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,50-64,Female,Plain,31,Outdoor,604.2,0.007,H,Yes,(100-200)
+6117,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,15-29,Male,Plain,32,Outdoor,808.1,0.012,H,Yes,(100-200)
+6118,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,30-49,Male,Plain,21,Outdoor,1060.1,0.007,H,Yes,(100-200)
+6119,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,30-49,Female,Plain,31,Outdoor,1886.4,0.016,H,Yes,(100-200)
+6120,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,<=14,Female,Plain,51,River,1133.8,0.007,H,Yes,(100-200)
+6121,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,15-29,Female,Plain,32,Outdoor,1400.7,0.012,H,Yes,(100-200)
+6122,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,30-49,Male,Plain,51,Outdoor,1057.4,0.012,H,Yes,(100-200)
+6123,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,50-64,Male,Plain,13,Outdoor,230.5,0.01,H,Yes,(100-200)
+6124,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,65-74,Male,Plain,51,Outdoor,537.6,0.01,H,Yes,(100-200)
+6125,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,50-64,Female,Plain,31,Outdoor,999.4,0.016,H,Yes,(100-200)
+6126,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,30-49,Male,Plain,31,Outdoor,589.9,0.012,M,Yes,(100-200)
+6127,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,30-49,Male,Plain,13,River,998.3,0.007,H,Yes,(100-200)
+6128,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,30-49,Female,Plain,31,Outdoor,913.9,0.016,M,Yes,(100-200)
+6129,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,50-64,Male,Plain,31,River,804.3,0.012,H,Yes,(100-200)
+6130,201629,4/11/1994,Piemonte,Vercelli,Crescentino,il Po,15-29,Female,Plain,51,Outdoor,932.9,0.01,M,Yes,(100-200)
+6131,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Female,Mountain,21,Outdoor,69.2,0.023,H,Yes,(100-200)
+6132,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Male,Mountain,21,Outdoor,11.9,0.042,H,Yes,(100-200)
+6133,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Male,Mountain,31,Building,13.6,0.023,H,Yes,(100-200)
+6134,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Male,Mountain,51,Building,136.9,0.011,H,Yes,(100-200)
+6135,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Female,Mountain,24,Outdoor,114.9,0.042,H,Yes,(100-200)
+6136,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,22,Outdoor,124.8,0.023,L,Yes,(100-200)
+6137,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Male,Mountain,12,Outdoor,313.9,0.023,H,Yes,(100-200)
+6138,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Female,Mountain,12,Outdoor,248.8,0.024,H,Yes,(100-200)
+6139,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Outdoor,213.2,0.024,L,Yes,(100-200)
+6140,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Female,Mountain,22,Outdoor,268.3,0.024,H,Yes,(100-200)
+6141,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Building,373.6,0.011,H,Yes,(100-200)
+6142,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Female,Mountain,11,Building,333.5,0.023,H,Yes,(100-200)
+6143,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Female,Mountain,24,Outdoor,382,0.011,H,Yes,(100-200)
+6144,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,50-64,Female,Mountain,11,Outdoor,421.3,0.023,H,Yes,(100-200)
+6145,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Male,Mountain,24,Outdoor,559.4,0.024,L,Yes,(100-200)
+6146,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,50-64,Male,Mountain,51,Outdoor,477.9,0.011,L,Yes,(100-200)
+6147,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Male,Mountain,24,Building,762.9,0.011,H,Yes,(100-200)
+6148,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Building,713.9,0.042,L,Yes,(100-200)
+6149,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Female,Mountain,31,Outdoor,713.6,0.042,H,Yes,(100-200)
+6150,203039,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Female,Mountain,51,Outdoor,637.5,0.024,H,Yes,(100-200)
+6151,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,21,Building,42.3,0.024,outside,Yes,(100-200)
+6152,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Outdoor,37.2,0.024,outside,Yes,(100-200)
+6153,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Building,89.6,0.023,outside,Yes,(100-200)
+6154,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,50-64,Female,Mountain,22,Outdoor,101.9,0.011,outside,Yes,(100-200)
+6155,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,50-64,Male,Mountain,12,River,181.8,0.024,outside,Yes,(100-200)
+6156,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Female,Mountain,11,Building,181.4,0.042,outside,Yes,(100-200)
+6157,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Male,Mountain,24,Outdoor,167.3,0.042,outside,Yes,(100-200)
+6158,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Female,Mountain,12,Building,146.2,0.023,outside,Yes,(100-200)
+6159,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Male,Mountain,24,Building,217.1,0.024,outside,Yes,(100-200)
+6160,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Male,Mountain,24,Outdoor,267.4,0.024,outside,Yes,(100-200)
+6161,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Female,Mountain,21,Outdoor,210.4,0.024,outside,Yes,(100-200)
+6162,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,50-64,Female,Mountain,51,Outdoor,233.2,0.011,outside,Yes,(100-200)
+6163,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Female,Mountain,24,Outdoor,481.2,0.023,outside,Yes,(100-200)
+6164,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,51,Building,436,0.024,outside,Yes,(100-200)
+6165,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Outdoor,449.3,0.042,outside,Yes,(100-200)
+6166,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Male,Mountain,22,Outdoor,643,0.011,outside,Yes,(100-200)
+6167,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,50-64,Female,Mountain,24,Outdoor,719.1,0.023,outside,Yes,(100-200)
+6168,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Female,Mountain,24,Outdoor,604.7,0.042,outside,Yes,(100-200)
+6169,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Male,Mountain,24,Outdoor,667.8,0.011,outside,Yes,(100-200)
+6170,201624,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Female,Mountain,21,Outdoor,136.2,0.024,outside,Yes,(100-200)
+6171,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Female,Mountain,21,Outdoor,20.4,0.023,L,Yes,(100-200)
+6172,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Male,Mountain,21,Outdoor,48.1,0.042,H,Yes,(100-200)
+6173,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Outdoor,57.7,0.011,H,Yes,(100-200)
+6174,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,12,Outdoor,54.8,0.024,H,Yes,(100-200)
+6175,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Male,Mountain,24,River,35.7,0.042,H,Yes,(100-200)
+6176,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Female,Mountain,22,Building,56.6,0.011,H,Yes,(100-200)
+6177,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Female,Mountain,24,River,148.2,0.024,H,Yes,(100-200)
+6178,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,50-64,Male,Mountain,22,Outdoor,283.3,0.023,L,Yes,(100-200)
+6179,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Female,Mountain,24,Outdoor,349.9,0.042,H,Yes,(100-200)
+6180,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Female,Mountain,31,Outdoor,249.7,0.024,H,Yes,(100-200)
+6181,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Male,Mountain,24,Building,218.5,0.042,H,Yes,(100-200)
+6182,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Female,Mountain,24,Outdoor,344.8,0.042,H,Yes,(100-200)
+6183,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Female,Mountain,51,Outdoor,505.2,0.042,H,Yes,(100-200)
+6184,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,50-64,Male,Mountain,24,Outdoor,538.1,0.024,H,Yes,(100-200)
+6185,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Female,Mountain,21,Outdoor,474.3,0.023,L,Yes,(100-200)
+6186,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Male,Mountain,12,Outdoor,726.5,0.042,H,Yes,(100-200)
+6187,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Outdoor,668.3,0.024,H,Yes,(100-200)
+6188,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,50-64,Male,Mountain,21,Outdoor,756.9,0.042,H,Yes,(100-200)
+6189,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Female,Mountain,51,Outdoor,640.1,0.024,H,Yes,(100-200)
+6190,201623,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,11,Outdoor,653.3,0.023,H,Yes,(100-200)
+6191,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Female,Mountain,24,Outdoor,37.4,0.042,H,Yes,(100-200)
+6192,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Female,Mountain,24,Outdoor,42.3,0.023,H,Yes,(100-200)
+6193,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Building,49,0.023,H,Yes,(100-200)
+6194,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Female,Mountain,22,Building,75.9,0.023,H,Yes,(100-200)
+6195,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Male,Mountain,51,Building,189.5,0.023,H,Yes,(100-200)
+6196,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Building,160.1,0.042,L,Yes,(100-200)
+6197,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Female,Mountain,31,Outdoor,193.6,0.023,L,Yes,(100-200)
+6198,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Male,Mountain,51,Outdoor,239.9,0.042,H,Yes,(100-200)
+6199,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Female,Mountain,22,Outdoor,219.7,0.023,H,Yes,(100-200)
+6200,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Female,Mountain,24,River,250.2,0.023,L,Yes,(100-200)
+6201,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Male,Mountain,21,Building,245.9,0.042,H,Yes,(100-200)
+6202,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,22,Outdoor,321.8,0.011,H,Yes,(100-200)
+6203,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,21,Outdoor,431.5,0.011,H,Yes,(100-200)
+6204,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Outdoor,529.1,0.011,H,Yes,(100-200)
+6205,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Female,Mountain,31,Outdoor,540.7,0.023,H,Yes,(100-200)
+6206,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Male,Mountain,31,Building,714.7,0.042,L,Yes,(100-200)
+6207,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,51,Building,714.7,0.024,H,Yes,(100-200)
+6208,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Female,Mountain,24,Building,752.4,0.042,H,Yes,(100-200)
+6209,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Male,Mountain,21,Outdoor,628.8,0.023,H,Yes,(100-200)
+6210,201625,4/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Mountain,24,Outdoor,689.4,0.023,H,Yes,(100-200)
+6211,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,30-49,Male,Mountain,11,Outdoor,242.5,0.023,H,No,(20-50)
+6212,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,30-49,Male,Mountain,12,Outdoor,368,0.023,H,No,(20-50)
+6213,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,50-64,Male,Mountain,21,Outdoor,260.3,0.023,H,No,(20-50)
+6214,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,<=14,Male,Mountain,21,Building,206.7,0.024,H,No,(20-50)
+6215,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,<=14,Female,Mountain,21,Building,22.8,0.024,H,No,(20-50)
+6216,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,15-29,Female,Mountain,21,Outdoor,51.7,0.042,H,No,(20-50)
+6217,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,15-29,Female,Mountain,21,Building,384.9,0.042,H,No,(20-50)
+6218,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,30-49,Female,Mountain,24,Outdoor,314.5,0.042,H,No,(20-50)
+6219,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,50-64,Female,Mountain,24,Outdoor,396.5,0.042,H,No,(20-50)
+6220,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,50-64,Female,Mountain,24,Outdoor,346.8,0.042,H,No,(20-50)
+6221,201632,4/11/1994,Piemonte,Cuneo,Narzole,Tanaro,30-49,Male,Mountain,14,River,2.5,0.015,H,Yes,(100-200)
+6222,201632,4/11/1994,Piemonte,Cuneo,Narzole,Tanaro,30-49,Male,Mountain,21,Outdoor,22.1,0.015,H,Yes,(100-200)
+6223,201632,4/11/1994,Piemonte,Cuneo,Narzole,Tanaro,50-64,Male,Mountain,21,Outdoor,37.6,0.015,H,Yes,(100-200)
+6224,201632,4/11/1994,Piemonte,Cuneo,Narzole,Tanaro,65-74,Female,Mountain,21,Outdoor,71.2,0.015,H,Yes,(100-200)
+6225,201632,4/11/1994,Piemonte,Cuneo,Narzole,Tanaro,<=14,Female,Mountain,24,Outdoor,116.6,0.016,H,Yes,(100-200)
+6226,201632,4/11/1994,Piemonte,Cuneo,Narzole,Tanaro,30-49,Female,Mountain,24,Outdoor,314.6,0.018,H,Yes,(100-200)
+6227,201632,4/11/1994,Piemonte,Cuneo,Narzole,Tanaro,30-49,Female,Mountain,24,Outdoor,502.1,0.018,H,Yes,(100-200)
+6228,201632,4/11/1994,Piemonte,Cuneo,Narzole,Tanaro,30-49,Female,Mountain,24,Outdoor,93.3,0.018,L,Yes,(100-200)
+6229,201632,4/11/1994,Piemonte,Cuneo,Narzole,Tanaro,30-49,Female,Mountain,24,Outdoor,181.5,0.018,H,Yes,(100-200)
+6230,201632,4/11/1994,Piemonte,Cuneo,Narzole,Tanaro,30-49,Female,Mountain,24,Outdoor,515.9,0.022,H,Yes,(100-200)
+6231,201631,4/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,15-29,Male,Mountain,21,River,9.7,0.015,H,Yes,(100-200)
+6232,201631,4/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,15-29,Male,Mountain,21,River,36.8,0.015,H,Yes,(100-200)
+6233,201631,4/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,30-49,Male,Mountain,21,Outdoor,163,0.018,L,Yes,(100-200)
+6234,201631,4/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,30-49,Male,Mountain,21,Outdoor,388.2,0.018,H,Yes,(100-200)
+6235,201631,4/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,30-49,Male,Mountain,24,Outdoor,433.8,0.018,H,Yes,(100-200)
+6236,201631,4/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,30-49,Male,Mountain,24,Outdoor,52.5,0.022,L,Yes,(100-200)
+6237,201631,4/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,50-64,Male,Mountain,24,Outdoor,183.6,0.022,H,Yes,(100-200)
+6238,201631,4/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,50-64,Male,Mountain,24,Outdoor,587.5,0.022,H,Yes,(100-200)
+6239,201631,4/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,50-64,Female,Mountain,24,Outdoor,544.1,0.022,L,Yes,(100-200)
+6240,201631,4/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,50-64,Female,Mountain,24,Outdoor,141.6,0.022,H,Yes,(100-200)
+6241,201634,4/11/1994,Piemonte,Torino,Santena,Riano,15-29,Female,Plain,11,Outdoor,178.1,0.052,L,Yes,(100-200)
+6242,201634,4/11/1994,Piemonte,Torino,Santena,Riano,30-49,Female,Plain,21,River,109.7,0.052,L,Yes,(100-200)
+6243,201634,4/11/1994,Piemonte,Torino,Santena,Riano,30-49,Female,Plain,21,Outdoor,161.1,0.052,H,Yes,(100-200)
+6244,201634,4/11/1994,Piemonte,Torino,Santena,Riano,30-49,Female,Plain,21,Outdoor,105.3,0.016,L,Yes,(100-200)
+6245,201634,4/11/1994,Piemonte,Torino,Santena,Riano,30-49,Female,Plain,21,Outdoor,195.6,0.041,L,Yes,(100-200)
+6246,201634,4/11/1994,Piemonte,Torino,Santena,Riano,30-49,Female,Plain,21,Outdoor,245.1,0.016,L,Yes,(100-200)
+6247,201634,4/11/1994,Piemonte,Torino,Santena,Riano,50-64,Male,Plain,21,Outdoor,291.1,0.016,L,Yes,(100-200)
+6248,201634,4/11/1994,Piemonte,Torino,Santena,Riano,50-64,Male,Plain,21,Outdoor,204.5,0.041,H,Yes,(100-200)
+6249,201634,4/11/1994,Piemonte,Torino,Santena,Riano,50-64,Male,Plain,21,River,25.7,0.016,H,Yes,(100-200)
+6250,201634,4/11/1994,Piemonte,Torino,Santena,Riano,65-74,Male,Plain,21,River,428.3,0.016,L,Yes,(100-200)
+6251,201599,4/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,30-49,Male,Mountain,24,Outdoor,4.9,0.015,H,Yes,(100-200)
+6252,201599,4/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,30-49,Male,Mountain,51,Outdoor,4.8,0.014,H,Yes,(100-200)
+6253,201599,4/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,30-49,Male,Mountain,51,Outdoor,2.5,0.009,H,Yes,(100-200)
+6254,201599,4/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,30-49,Female,Mountain,24,Outdoor,262.7,0.009,H,Yes,(100-200)
+6255,201599,4/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,<=14,Female,Mountain,24,Outdoor,542.3,0.014,H,Yes,(100-200)
+6256,201599,4/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,<=14,Male,Mountain,24,Outdoor,284.2,0.021,H,Yes,(100-200)
+6257,201599,4/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,30-49,Female,Mountain,24,Outdoor,472.7,0.009,H,Yes,(100-200)
+6258,201599,4/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,30-49,Female,Mountain,24,Outdoor,428.6,0.009,H,Yes,(100-200)
+6259,201599,4/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,50-64,Male,Mountain,24,Outdoor,278.6,0.01,H,Yes,(100-200)
+6260,201599,4/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,15-29,Female,Mountain,24,River,467.5,0.01,H,Yes,(100-200)
+6261,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,15-29,Male,Mountain,24,Building,12.5,0.009,H,Yes,(100-200)
+6262,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,15-29,Female,Mountain,31,Building,28.2,0.009,H,Yes,(100-200)
+6263,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,15-29,Female,Mountain,11,River,26.2,0.009,H,Yes,(100-200)
+6264,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,15-29,Female,Mountain,51,River,26.1,0.009,H,Yes,(100-200)
+6265,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,24,Outdoor,41,0.014,H,Yes,(100-200)
+6266,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,65-74,Female,Mountain,22,Outdoor,56.8,0.009,H,Yes,(100-200)
+6267,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,15-29,Female,Mountain,24,River,56.3,0.01,H,Yes,(100-200)
+6268,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,24,Outdoor,38.3,0.015,H,Yes,(100-200)
+6269,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,51,River,42.5,0.015,H,Yes,(100-200)
+6270,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,31,River,63.8,0.01,H,Yes,(100-200)
+6271,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,>=75,Female,Mountain,24,Outdoor,78.3,0.015,H,Yes,(100-200)
+6272,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,15-29,Female,Mountain,24,Outdoor,82.6,0.009,H,Yes,(100-200)
+6273,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,50-64,Male,Mountain,51,Outdoor,80.2,0.014,H,Yes,(100-200)
+6274,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,65-74,Female,Mountain,51,Outdoor,86.2,0.009,H,Yes,(100-200)
+6275,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,50-64,Male,Mountain,51,Outdoor,75.5,0.014,H,Yes,(100-200)
+6276,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,15-29,Male,Mountain,24,Outdoor,97.2,0.01,L,Yes,(100-200)
+6277,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Female,Mountain,24,Outdoor,75.1,0.014,H,Yes,(100-200)
+6278,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,21,Outdoor,90.3,0.01,H,Yes,(100-200)
+6279,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,50-64,Female,Mountain,24,Outdoor,93.7,0.01,L,Yes,(100-200)
+6280,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Female,Mountain,24,Outdoor,125.9,0.014,H,Yes,(100-200)
+6281,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,24,River,118.7,0.014,H,Yes,(100-200)
+6282,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,<=14,Male,Mountain,51,Outdoor,137.4,0.009,H,Yes,(100-200)
+6283,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Female,Mountain,51,Outdoor,132.5,0.009,H,Yes,(100-200)
+6284,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,31,Outdoor,110,0.014,H,Yes,(100-200)
+6285,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,24,Outdoor,168.4,0.01,H,Yes,(100-200)
+6286,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,15-29,Male,Mountain,31,Outdoor,131,0.021,H,Yes,(100-200)
+6287,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,50-64,Male,Mountain,31,Outdoor,188.4,0.021,H,Yes,(100-200)
+6288,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,>=75,Female,Mountain,24,Outdoor,132.5,0.021,H,Yes,(100-200)
+6289,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,65-74,Male,Mountain,31,Outdoor,178,0.015,H,Yes,(100-200)
+6290,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,<=14,Male,Mountain,51,Outdoor,125.7,0.014,H,Yes,(100-200)
+6291,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,50-64,Female,Mountain,23,Outdoor,180.3,0.009,H,Yes,(100-200)
+6292,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,50-64,Female,Mountain,23,Outdoor,357.7,0.021,H,Yes,(100-200)
+6293,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,15-29,Male,Mountain,24,Outdoor,349.6,0.009,H,Yes,(100-200)
+6294,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Female,Mountain,31,Outdoor,243.8,0.014,H,Yes,(100-200)
+6295,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,24,Outdoor,215.9,0.009,H,Yes,(100-200)
+6296,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Female,Mountain,51,Outdoor,290.6,0.015,H,Yes,(100-200)
+6297,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,15-29,Female,Mountain,24,Outdoor,241.2,0.01,H,Yes,(100-200)
+6298,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,65-74,Female,Mountain,51,Outdoor,218.2,0.009,H,Yes,(100-200)
+6299,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,<=14,Male,Mountain,51,Outdoor,223,0.009,H,Yes,(100-200)
+6300,201589,4/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,31,Outdoor,413,0.021,H,Yes,(100-200)
+6301,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,<=14,Female,Mountain,51,Building,11.5,0.01,outside,Yes,(100-200)
+6302,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Male,Mountain,24,Building,13.2,0.021,outside,Yes,(100-200)
+6303,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,>=75,Male,Mountain,24,Outdoor,7.8,0.014,outside,Yes,(100-200)
+6304,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,<=14,Female,Mountain,24,Outdoor,3.7,0.014,outside,Yes,(100-200)
+6305,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,31,Outdoor,29.5,0.009,outside,Yes,(100-200)
+6306,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,>=75,Female,Mountain,24,Outdoor,28.7,0.009,outside,Yes,(100-200)
+6307,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,51,Outdoor,20.8,0.021,outside,Yes,(100-200)
+6308,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,<=14,Male,Mountain,24,Outdoor,22.5,0.009,outside,Yes,(100-200)
+6309,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Female,Mountain,51,River,64.6,0.015,outside,Yes,(100-200)
+6310,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Male,Mountain,24,Outdoor,88.8,0.015,outside,Yes,(100-200)
+6311,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Female,Mountain,51,Outdoor,85.5,0.01,outside,Yes,(100-200)
+6312,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Male,Mountain,24,River,75.4,0.014,outside,Yes,(100-200)
+6313,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,23,Outdoor,87.8,0.015,outside,Yes,(100-200)
+6314,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,65-74,Male,Mountain,24,Outdoor,127.9,0.009,outside,Yes,(100-200)
+6315,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,50-64,Female,Mountain,31,Outdoor,110.8,0.009,outside,Yes,(100-200)
+6316,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,50-64,Female,Mountain,51,River,171.2,0.015,outside,Yes,(100-200)
+6317,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,24,Outdoor,188,0.01,outside,Yes,(100-200)
+6318,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,<=14,Male,Mountain,24,Outdoor,138.2,0.014,outside,Yes,(100-200)
+6319,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,51,Outdoor,151.7,0.01,outside,Yes,(100-200)
+6320,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Female,Mountain,24,Outdoor,121.6,0.01,outside,Yes,(100-200)
+6321,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,50-64,Female,Mountain,51,Outdoor,117.4,0.01,outside,Yes,(100-200)
+6322,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,65-74,Male,Mountain,21,Outdoor,133.4,0.015,outside,Yes,(100-200)
+6323,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,<=14,Male,Mountain,21,Outdoor,179.6,0.014,outside,Yes,(100-200)
+6324,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,51,Outdoor,105.6,0.015,outside,Yes,(100-200)
+6325,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,31,Outdoor,111.3,0.009,outside,Yes,(100-200)
+6326,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,<=14,Male,Mountain,24,Outdoor,118.5,0.009,outside,Yes,(100-200)
+6327,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,65-74,Female,Mountain,24,River,128.2,0.021,outside,Yes,(100-200)
+6328,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,>=75,Male,Mountain,51,River,155.4,0.009,outside,Yes,(100-200)
+6329,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,50-64,Female,Mountain,51,Outdoor,219,0.015,outside,Yes,(100-200)
+6330,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,>=75,Male,Mountain,24,Outdoor,354.8,0.021,outside,Yes,(100-200)
+6331,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,>=75,Male,Mountain,22,Outdoor,237.9,0.014,outside,Yes,(100-200)
+6332,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Female,Mountain,24,Outdoor,333.8,0.015,outside,Yes,(100-200)
+6333,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,50-64,Female,Mountain,21,Outdoor,314.9,0.009,outside,Yes,(100-200)
+6334,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,<=14,Female,Mountain,23,Outdoor,240.6,0.015,outside,Yes,(100-200)
+6335,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,23,Outdoor,251.4,0.021,outside,Yes,(100-200)
+6336,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,50-64,Female,Mountain,24,Outdoor,329,0.01,outside,Yes,(100-200)
+6337,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,50-64,Female,Mountain,24,Outdoor,250.2,0.009,outside,Yes,(100-200)
+6338,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Female,Mountain,51,River,240,0.021,outside,Yes,(100-200)
+6339,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,<=14,Male,Mountain,22,Outdoor,264.5,0.009,outside,Yes,(100-200)
+6340,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Female,Mountain,24,Outdoor,289.5,0.015,outside,Yes,(100-200)
+6341,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Female,Mountain,51,River,221,0.009,outside,Yes,(100-200)
+6342,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,24,Outdoor,34,0.015,outside,Yes,(100-200)
+6343,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,50-64,Male,Mountain,31,River,40.3,0.009,outside,Yes,(100-200)
+6344,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,<=14,Male,Mountain,51,Outdoor,41.8,0.014,outside,Yes,(100-200)
+6345,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,50-64,Female,Mountain,24,Outdoor,58.1,0.021,outside,Yes,(100-200)
+6346,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Male,Mountain,51,Outdoor,55.6,0.021,outside,Yes,(100-200)
+6347,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,24,Outdoor,37.6,0.01,outside,Yes,(100-200)
+6348,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Male,Mountain,24,Building,59.6,0.015,outside,Yes,(100-200)
+6349,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,65-74,Female,Mountain,24,Building,55,0.015,outside,Yes,(100-200)
+6350,201633,4/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Female,Mountain,51,Building,49.2,0.015,outside,Yes,(100-200)
+6351,201590,4/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,30-49,Female,Mountain,22,Outdoor,209.1,0.015,H,Yes,(100-200)
+6352,201590,4/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,65-74,Male,Mountain,24,Outdoor,247.6,0.009,H,Yes,(100-200)
+6353,201590,4/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,30-49,Male,Mountain,24,Outdoor,300.1,0.009,H,Yes,(100-200)
+6354,201590,4/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,30-49,Male,Mountain,31,Outdoor,239.8,0.014,H,Yes,(100-200)
+6355,201590,4/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,>=75,Female,Mountain,24,Outdoor,8.8,0.009,H,Yes,(100-200)
+6356,201590,4/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,65-74,Female,Mountain,51,Outdoor,23,0.009,H,Yes,(100-200)
+6357,201590,4/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,15-29,Female,Mountain,24,Outdoor,93.3,0.01,H,Yes,(100-200)
+6358,201590,4/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,65-74,Female,Mountain,51,River,116.6,0.009,H,Yes,(100-200)
+6359,201590,4/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,15-29,Male,Mountain,24,River,82,0.015,H,Yes,(100-200)
+6360,201590,4/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,30-49,Male,Mountain,51,River,120.2,0.021,H,Yes,(100-200)
+6361,201627,4/11/1994,Piemonte,Torino,Castellamonte,Orco,<=14,Male,Plain,21,Outdoor,37.9,0.035,outside,Yes,(100-200)
+6362,201627,4/11/1994,Piemonte,Torino,Castellamonte,Orco,<=14,Female,Plain,21,Outdoor,155.3,0.035,outside,Yes,(100-200)
+6363,201627,4/11/1994,Piemonte,Torino,Castellamonte,Orco,15-29,Female,Plain,21,Outdoor,358.5,0.028,outside,Yes,(100-200)
+6364,201627,4/11/1994,Piemonte,Torino,Castellamonte,Orco,15-29,Male,Plain,23,Outdoor,474.2,0.035,outside,Yes,(100-200)
+6365,201627,4/11/1994,Piemonte,Torino,Castellamonte,Orco,30-49,Male,Plain,24,Outdoor,611.8,0.035,outside,Yes,(100-200)
+6366,201627,4/11/1994,Piemonte,Torino,Castellamonte,Orco,30-49,Male,Plain,24,Outdoor,190.1,0.045,outside,Yes,(100-200)
+6367,201627,4/11/1994,Piemonte,Torino,Castellamonte,Orco,30-49,Female,Plain,24,Building,170.3,0.035,outside,Yes,(100-200)
+6368,201627,4/11/1994,Piemonte,Torino,Castellamonte,Orco,30-49,Male,Plain,33,Building,162.2,0.028,outside,Yes,(100-200)
+6369,201627,4/11/1994,Piemonte,Torino,Castellamonte,Orco,50-64,Male,Plain,33,Building,449.9,0.028,outside,Yes,(100-200)
+6370,201627,4/11/1994,Piemonte,Torino,Castellamonte,Orco,50-64,Male,Plain,33,Building,714.1,0.045,outside,Yes,(100-200)
+6371,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,<=14,Male,Plain,13,Outdoor,22,0.04,H,na,5
+6372,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,15-29,Male,Plain,21,Outdoor,49.6,0.063,H,na,5
+6373,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,15-29,Male,Plain,21,Outdoor,75.1,0.032,H,na,5
+6374,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,30-49,Male,Plain,21,Outdoor,139.8,0.063,H,na,5
+6375,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,30-49,Male,Plain,24,Outdoor,290,0.063,H,na,5
+6376,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,50-64,Male,Plain,31,Outdoor,189.5,0.032,H,na,5
+6377,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,50-64,Male,Plain,31,Outdoor,321.1,0.04,H,na,5
+6378,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,50-64,Female,Plain,32,Outdoor,149.3,0.04,H,na,5
+6379,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,50-64,Female,Plain,32,Outdoor,340.6,0.032,H,na,5
+6380,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,>=75,Female,Plain,51,Building,36.7,0.04,H,na,5
+6381,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,<=14,Male,Plain,11,Outdoor,324.8,0.036,outside,Yes,>200
+6382,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,<=14,Male,Plain,21,Outdoor,351,0.028,outside,Yes,>200
+6383,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,<=14,Male,Plain,24,Outdoor,1110.8,0.035,outside,Yes,>200
+6384,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,15-29,Male,Plain,24,Outdoor,637.2,0.036,outside,Yes,>200
+6385,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,15-29,Male,Plain,24,Outdoor,798.4,0.028,outside,Yes,>200
+6386,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,15-29,Female,Plain,24,Outdoor,761.3,0.035,outside,Yes,>200
+6387,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,50-64,Female,Plain,31,Outdoor,680.7,0.036,outside,Yes,>200
+6388,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,50-64,Female,Plain,32,Outdoor,679.2,0.035,outside,Yes,>200
+6389,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,50-64,Female,Plain,32,Outdoor,913.8,0.028,outside,Yes,>200
+6390,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,>=75,Female,Plain,51,Outdoor,1070.2,0.035,outside,Yes,>200
+6391,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,<=14,Male,Mountain,11,Building,7.1,0.039,outside,na,(20-50)
+6392,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,15-29,Male,Mountain,12,Building,2.2,0.039,outside,na,(20-50)
+6393,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,15-29,Male,Mountain,12,River,18.3,0.039,outside,na,(20-50)
+6394,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,30-49,Male,Mountain,12,Building,48.7,0.039,outside,na,(20-50)
+6395,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,30-49,Male,Mountain,12,Building,190.6,0.039,outside,na,(20-50)
+6396,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,50-64,Female,Mountain,12,Outdoor,268.3,0.086,outside,na,(20-50)
+6397,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,50-64,Female,Mountain,12,Building,102.3,0.086,outside,na,(20-50)
+6398,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,65-74,Female,Mountain,14,Building,262.3,0.086,outside,na,(20-50)
+6399,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,65-74,Female,Mountain,24,Building,165.1,0.086,outside,na,(20-50)
+6400,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,>=75,Female,Mountain,31,Building,261.6,0.086,outside,na,(20-50)
+6401,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,<=14,Male,Plain,21,Building,4.1,0.009,H,Yes,(2-5)
+6402,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,<=14,Male,Plain,23,River,18.3,0.021,H,Yes,(2-5)
+6403,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,<=14,Female,Plain,23,River,41.4,0.016,H,Yes,(2-5)
+6404,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Female,Plain,23,River,62.2,0.016,H,Yes,(2-5)
+6405,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Female,Plain,24,Outdoor,165,0.019,H,Yes,(2-5)
+6406,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,<=14,Male,Mountain,24,River,306.7,0.021,H,Yes,(2-5)
+6407,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Mountain,24,River,474.3,0.019,H,Yes,(2-5)
+6408,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Mountain,24,Outdoor,735.7,0.019,H,Yes,(2-5)
+6409,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,24,River,933.6,0.02,H,Yes,(2-5)
+6410,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Male,Plain,24,Outdoor,5.6,0.036,H,Yes,(2-5)
+6411,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Female,Plain,31,Outdoor,22.2,0.009,H,Yes,(2-5)
+6412,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,<=14,Male,Mountain,33,Outdoor,48.1,0.019,H,Yes,(2-5)
+6413,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,<=14,Male,Mountain,24,Outdoor,63.6,0.021,H,Yes,(2-5)
+6414,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Female,Plain,24,River,165.3,0.036,H,Yes,(2-5)
+6415,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Male,Plain,24,Outdoor,237.9,0.036,H,Yes,(2-5)
+6416,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Female,Plain,24,River,452.9,0.019,H,Yes,(2-5)
+6417,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Female,Mountain,24,Outdoor,708.2,0.016,H,Yes,(2-5)
+6418,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,31,Outdoor,9,0.036,H,Yes,(2-5)
+6419,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,32,Outdoor,21.5,0.02,H,Yes,(2-5)
+6420,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Female,Mountain,23,Outdoor,43.6,0.016,H,Yes,(2-5)
+6421,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Female,Plain,23,River,64.8,0.016,H,Yes,(2-5)
+6422,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,24,Outdoor,127.3,0.009,H,Yes,(2-5)
+6423,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,24,River,334.8,0.021,H,Yes,(2-5)
+6424,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,21,River,495,0.036,H,Yes,(2-5)
+6425,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,21,Outdoor,690.2,0.02,H,Yes,(2-5)
+6426,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Male,Plain,21,Outdoor,9.7,0.019,H,Yes,(2-5)
+6427,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Male,Plain,21,Outdoor,17.3,0.016,H,Yes,(2-5)
+6428,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Male,Plain,24,Outdoor,48.6,0.021,H,Yes,(2-5)
+6429,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,24,Outdoor,67.4,0.02,H,Yes,(2-5)
+6430,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,24,Outdoor,147.7,0.016,H,Yes,(2-5)
+6431,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,24,River,326.2,0.009,H,Yes,(2-5)
+6432,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,24,Outdoor,475.2,0.036,H,Yes,(2-5)
+6433,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Female,Plain,24,Outdoor,695.1,0.036,H,Yes,(2-5)
+6434,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Male,Mountain,24,Outdoor,12.3,0.019,H,Yes,(2-5)
+6435,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Mountain,24,Outdoor,28,0.021,H,Yes,(2-5)
+6436,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,31,Outdoor,31.4,0.019,H,Yes,(2-5)
+6437,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,32,Outdoor,67.6,0.02,H,Yes,(2-5)
+6438,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Male,Plain,33,Outdoor,114.6,0.036,H,Yes,(2-5)
+6439,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,33,River,306,0.021,H,Yes,(2-5)
+6440,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,33,Outdoor,539,0.016,H,Yes,(2-5)
+6441,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,33,Outdoor,689.8,0.019,H,Yes,(2-5)
+6442,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,<=14,Male,Plain,33,Outdoor,55.2,0.02,H,Yes,(2-5)
+6443,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Female,Plain,21,Outdoor,70.2,0.02,H,Yes,(2-5)
+6444,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Male,Plain,21,Outdoor,196.3,0.021,H,Yes,(2-5)
+6445,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Male,Plain,21,Outdoor,381.1,0.036,H,Yes,(2-5)
+6446,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,24,Outdoor,420.2,0.02,H,Yes,(2-5)
+6447,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,24,Outdoor,36.5,0.036,H,Yes,(2-5)
+6448,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,24,Outdoor,72.7,0.021,H,Yes,(2-5)
+6449,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Male,Plain,31,River,171.9,0.009,H,Yes,(2-5)
+6450,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Female,Plain,32,Outdoor,202.4,0.009,H,Yes,(2-5)
+6451,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,33,Outdoor,530,0.016,H,Yes,(2-5)
+6452,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,>=75,Female,Plain,33,Outdoor,31.6,0.016,H,Yes,(2-5)
+6453,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,>=75,Female,Plain,23,Outdoor,73.9,0.019,H,Yes,(2-5)
+6454,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Female,Plain,24,Outdoor,195.9,0.036,H,Yes,(2-5)
+6455,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Female,Plain,32,Outdoor,262,0.009,H,Yes,(2-5)
+6456,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Male,Plain,32,River,432.7,0.009,H,Yes,(2-5)
+6457,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,32,Outdoor,90.5,0.016,H,Yes,(2-5)
+6458,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Female,Plain,33,Outdoor,137.2,0.021,H,Yes,(2-5)
+6459,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Female,Plain,33,Outdoor,231.7,0.021,H,Yes,(2-5)
+6460,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,<=14,Female,Plain,24,Outdoor,588.5,0.02,H,Yes,(2-5)
+6461,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,<=14,Male,Plain,24,Outdoor,90.6,0.021,H,Yes,(2-5)
+6462,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Female,Plain,24,Outdoor,110.6,0.02,H,Yes,(2-5)
+6463,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Male,Plain,24,Outdoor,223,0.021,H,Yes,(2-5)
+6464,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Female,Plain,24,Outdoor,447.4,0.021,H,Yes,(2-5)
+6465,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,65-74,Female,Plain,24,Outdoor,91.2,0.019,H,Yes,(2-5)
+6466,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,>=75,Female,Plain,31,Outdoor,135.8,0.009,H,Yes,(2-5)
+6467,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Female,Plain,32,Outdoor,268.9,0.019,H,Yes,(2-5)
+6468,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,30-49,Male,Plain,33,Outdoor,482.3,0.016,H,Yes,(2-5)
+6469,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,>=75,Male,Plain,33,Outdoor,142.6,0.009,H,Yes,(2-5)
+6470,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,>=75,Female,Plain,33,Outdoor,181.5,0.019,H,Yes,(2-5)
+6471,201510,2/6/1992,Lombardia,Varese,Castronno,Arno,15-29,Male,Plain,11,Building,11.1,0.11,H,na,<2
+6472,201510,2/6/1992,Lombardia,Varese,Castronno,Arno,30-49,Male,Plain,11,River,16.9,0.15,H,na,<2
+6473,201510,2/6/1992,Lombardia,Varese,Castronno,Arno,30-49,Female,Plain,12,Outdoor,42.1,0.15,H,na,<2
+6474,201510,2/6/1992,Lombardia,Varese,Castronno,Arno,30-49,Male,Plain,24,Outdoor,82.6,0.11,H,na,<2
+6475,201510,2/6/1992,Lombardia,Varese,Castronno,Arno,15-29,Female,Plain,31,Outdoor,127.5,0.11,H,na,<2
+6476,201510,2/6/1992,Lombardia,Varese,Castronno,Arno,15-29,Female,Plain,31,Outdoor,31.3,0.15,H,na,<2
+6477,201510,2/6/1992,Lombardia,Varese,Castronno,Arno,30-49,Male,Plain,31,Outdoor,51.3,0.166,H,na,<2
+6478,201510,2/6/1992,Lombardia,Varese,Castronno,Arno,50-64,Female,Plain,31,River,39.1,0.166,H,na,<2
+6479,201510,2/6/1992,Lombardia,Varese,Castronno,Arno,65-74,Male,Plain,31,Outdoor,9.2,0.11,H,na,<2
+6480,201510,2/6/1992,Lombardia,Varese,Castronno,Arno,30-49,Female,Plain,31,Outdoor,7.9,0.11,H,na,<2
+6481,203124,5/6/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,50-64,Male,Plain,22,Outdoor,78.1,0.011,outside,na,(2-5)
+6482,203124,5/6/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,50-64,Male,Plain,24,Building,88.1,0.02,outside,na,(2-5)
+6483,203124,5/6/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,30-49,Male,Plain,22,Building,74.5,0.02,outside,na,(2-5)
+6484,203124,5/6/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,>=75,Male,Plain,11,Outdoor,82.6,0.015,outside,na,(2-5)
+6485,203124,5/6/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,30-49,Male,Plain,22,Building,27.3,0.015,outside,na,(2-5)
+6486,203124,5/6/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,15-29,Female,Plain,24,Outdoor,23.9,0.015,outside,na,(2-5)
+6487,203124,5/6/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,50-64,Female,Plain,22,Building,77.2,0.011,outside,na,(2-5)
+6488,203124,5/6/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,30-49,Female,Plain,22,Building,13,0.015,outside,na,(2-5)
+6489,203124,5/6/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,>=75,Male,Plain,24,Building,48.9,0.02,outside,na,(2-5)
+6490,203124,5/6/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,50-64,Male,Plain,22,Outdoor,34.7,0.02,outside,na,(2-5)
+6491,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,30-49,Male,Mountain,21,Building,16.5,0.037,H,na,(50-100)
+6492,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,30-49,Male,Mountain,21,Outdoor,23,0.037,H,na,(50-100)
+6493,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,30-49,Female,Mountain,21,Outdoor,82,0.037,H,na,(50-100)
+6494,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,50-64,Female,Mountain,21,Outdoor,73.1,0.041,H,na,(50-100)
+6495,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,<=14,Male,Mountain,21,Building,1275.7,0.045,H,na,(50-100)
+6496,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,15-29,Male,Mountain,11,Building,702.7,0.041,H,na,(50-100)
+6497,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,30-49,Male,Mountain,21,Outdoor,41.2,0.037,H,na,(50-100)
+6498,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,<=14,Male,Mountain,21,Outdoor,540.5,0.041,H,na,(50-100)
+6499,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,<=14,Female,Mountain,21,Outdoor,34,0.045,H,na,(50-100)
+6500,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,<=14,Female,Mountain,21,Outdoor,796.8,0.045,H,na,(50-100)
+6501,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,30-49,Female,Plain,21,Outdoor,2.8,0.012,outside,na,(10-20)
+6502,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,15-29,Male,Plain,21,Outdoor,24.7,0.016,outside,na,(10-20)
+6503,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,>=75,Male,Plain,31,River,37,0.016,outside,na,(10-20)
+6504,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,15-29,Female,Plain,32,Outdoor,170.2,0.016,outside,na,(10-20)
+6505,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,30-49,Female,Plain,21,River,342.1,0.011,outside,na,(10-20)
+6506,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,<=14,Female,Plain,21,Outdoor,457.3,0.016,outside,na,(10-20)
+6507,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,30-49,Male,Plain,32,Outdoor,218.4,0.017,outside,na,(10-20)
+6508,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,65-74,Female,Plain,21,River,281.1,0.017,outside,na,(10-20)
+6509,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,15-29,Male,Plain,21,Outdoor,13.1,0.024,outside,na,(10-20)
+6510,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,>=75,Female,Plain,51,Outdoor,16.9,0.024,outside,na,(10-20)
+6511,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,30-49,Female,Plain,21,Bridge,0,0.02,H,na,(20-50)
+6512,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,65-74,Female,Plain,24,Outdoor,29.7,0.02,H,na,(20-50)
+6513,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,50-64,Female,Plain,21,Outdoor,31.9,0.02,H,na,(20-50)
+6514,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,50-64,Female,Mountain,24,Building,180.7,0.023,H,na,(20-50)
+6515,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,30-49,Male,Plain,11,Building,214.4,0.02,H,na,(20-50)
+6516,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,<=14,Female,Plain,21,Outdoor,0,0.023,H,na,(20-50)
+6517,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,<=14,Male,Plain,24,Outdoor,177,0.02,H,na,(20-50)
+6518,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,15-29,Male,Plain,24,Building,54.1,0.023,H,na,(20-50)
+6519,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,<=14,Female,Plain,21,Building,142.5,0.02,H,na,(20-50)
+6520,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,30-49,Female,Plain,11,Building,251.4,0.023,H,na,(20-50)
+6521,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,50-64,Male,Plain,24,Outdoor,9.7,0.02,H,na,(20-50)
+6522,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,>=75,Female,Plain,24,Outdoor,31.2,0.02,H,na,(20-50)
+6523,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,15-29,Female,Plain,24,Building,44.1,0.02,H,na,(20-50)
+6524,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,>=75,Male,Plain,21,Building,19.4,0.02,H,na,(20-50)
+6525,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,65-74,Male,Plain,11,Outdoor,22.3,0.02,H,na,(20-50)
+6526,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,15-29,Male,Plain,21,Outdoor,210.4,0.02,H,na,(20-50)
+6527,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,15-29,Female,Plain,31,Building,209.2,0.02,H,na,(20-50)
+6528,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,30-49,Female,Plain,11,Outdoor,209.1,0.023,H,na,(20-50)
+6529,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,30-49,Female,Plain,12,Outdoor,247.1,0.02,H,na,(20-50)
+6530,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,30-49,Male,Plain,11,Building,263.3,0.023,H,na,(20-50)
+6531,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Male,Plain,24,River,88,0.086,H,na,(2-5)
+6532,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Female,Plain,24,River,69.7,0.084,H,na,(2-5)
+6533,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,50-64,Male,Plain,21,River,97.7,0.086,H,na,(2-5)
+6534,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,24,River,87.1,0.081,H,na,(2-5)
+6535,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,50-64,Female,Plain,24,River,78.7,0.086,H,na,(2-5)
+6536,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Female,Plain,33,River,56.7,0.084,H,na,(2-5)
+6537,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,24,River,56.6,0.081,H,na,(2-5)
+6538,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Male,Plain,33,River,43.1,0.081,H,na,(2-5)
+6539,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Female,Plain,21,River,33.8,0.086,H,na,(2-5)
+6540,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Male,Plain,24,River,55.4,0.086,H,na,(2-5)
+6541,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,50-64,Male,Plain,33,River,116.8,0.086,H,na,(2-5)
+6542,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Male,Plain,21,Outdoor,110.2,0.081,H,na,(2-5)
+6543,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,<=14,Male,Plain,21,River,116.2,0.084,H,na,(2-5)
+6544,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,<=14,Male,Plain,24,River,104.3,0.081,H,na,(2-5)
+6545,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,24,River,46.1,0.081,H,na,(2-5)
+6546,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,21,Outdoor,17.4,0.084,H,na,(2-5)
+6547,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,21,Outdoor,20.4,0.086,H,na,(2-5)
+6548,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,>=75,Female,Plain,24,River,18.6,0.086,H,na,(2-5)
+6549,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,<=14,Male,Plain,21,River,36.2,0.081,H,na,(2-5)
+6550,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,65-74,Female,Plain,33,Outdoor,36.7,0.084,H,na,(2-5)
+6551,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Male,Plain,24,River,42.7,0.086,H,na,(2-5)
+6552,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,33,Outdoor,27.2,0.084,H,na,(2-5)
+6553,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,11,River,22.7,0.081,H,na,(2-5)
+6554,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Female,Plain,33,Outdoor,20,0.086,H,na,(2-5)
+6555,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,24,Outdoor,28.2,0.081,H,na,(2-5)
+6556,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,50-64,Male,Plain,24,Bridge,27.4,0.084,H,na,(2-5)
+6557,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,65-74,Female,Plain,24,River,11.4,0.086,H,na,(2-5)
+6558,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Female,Plain,21,Outdoor,1.7,0.084,H,na,(2-5)
+6559,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Female,Plain,21,River,4.3,0.084,H,na,(2-5)
+6560,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,21,River,4.7,0.086,H,na,(2-5)
+6561,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,<=14,Female,Plain,21,Outdoor,11.4,0.084,H,na,(2-5)
+6562,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,65-74,Male,Plain,24,River,21.1,0.081,H,na,(2-5)
+6563,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,24,Outdoor,19.4,0.084,H,na,(2-5)
+6564,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,21,River,8.6,0.086,H,na,(2-5)
+6565,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,33,River,3.8,0.081,H,na,(2-5)
+6566,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,65-74,Female,Plain,24,Outdoor,7.1,0.081,H,na,(2-5)
+6567,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,11,Outdoor,10,0.086,H,na,(2-5)
+6568,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,24,Outdoor,11.7,0.084,H,na,(2-5)
+6569,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,<=14,Male,Plain,11,River,14.4,0.081,H,na,(2-5)
+6570,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,50-64,Male,Plain,24,River,12.8,0.086,H,na,(2-5)
+6571,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,50-64,Male,Plain,21,River,10.5,0.086,H,na,(2-5)
+6572,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Male,Plain,21,Outdoor,18.4,0.086,H,na,(2-5)
+6573,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,50-64,Female,Plain,21,River,35.3,0.081,H,na,(2-5)
+6574,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Female,Plain,33,Outdoor,34.8,0.081,H,na,(2-5)
+6575,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Male,Plain,24,Outdoor,59,0.086,H,na,(2-5)
+6576,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,<=14,Male,Plain,11,River,7.6,0.084,H,na,(2-5)
+6577,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,24,River,14.1,0.084,H,na,(2-5)
+6578,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Female,Plain,24,River,13.1,0.086,H,na,(2-5)
+6579,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,24,River,7.9,0.084,H,na,(2-5)
+6580,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,24,Outdoor,2.7,0.081,H,na,(2-5)
+6581,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,30-49,Male,Mountain,31,Outdoor,24.2,0.007,outside,Yes,>200
+6582,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,>=75,Female,Mountain,11,Outdoor,20.2,0.007,outside,Yes,>200
+6583,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,15-29,Female,Mountain,31,Building,6.8,0.007,outside,Yes,>200
+6584,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,<=14,Female,Mountain,31,Outdoor,35,0.007,outside,Yes,>200
+6585,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,15-29,Male,Mountain,11,Outdoor,43.3,0.007,outside,Yes,>200
+6586,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,65-74,Female,Mountain,31,Outdoor,49.3,0.007,outside,Yes,>200
+6587,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,>=75,Male,Mountain,31,Building,88.5,0.007,outside,Yes,>200
+6588,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,>=75,Male,Mountain,31,River,89.2,0.007,outside,Yes,>200
+6589,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,>=75,Male,Mountain,31,Building,94.2,0.007,outside,Yes,>200
+6590,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,15-29,Male,Mountain,31,Outdoor,81.7,0.007,outside,Yes,>200
+6591,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,15-29,Female,Mountain,31,Outdoor,67,0.007,outside,Yes,>200
+6592,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,50-64,Female,Mountain,31,Outdoor,78.6,0.007,outside,Yes,>200
+6593,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,30-49,Male,Mountain,11,Outdoor,62.7,0.007,outside,Yes,>200
+6594,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,65-74,Male,Mountain,31,Outdoor,78.8,0.007,outside,Yes,>200
+6595,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,50-64,Male,Mountain,31,Outdoor,112.4,0.007,outside,Yes,>200
+6596,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,15-29,Male,Mountain,31,Outdoor,102.3,0.007,outside,Yes,>200
+6597,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,30-49,Female,Mountain,24,Outdoor,120.6,0.007,outside,Yes,>200
+6598,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,50-64,Male,Mountain,31,River,122.5,0.007,outside,Yes,>200
+6599,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,<=14,Female,Mountain,11,Outdoor,107.4,0.007,outside,Yes,>200
+6600,201281,7/10/1977,Liguria,Genova,Campo Ligure,Angassino,30-49,Female,Mountain,31,Outdoor,126.5,0.007,outside,Yes,>200
+6601,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,50-64,Female,Plain,11,River,4.9,0.086,H,na,5
+6602,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,<=14,Female,Plain,24,Outdoor,11.8,0.086,H,na,5
+6603,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,15-29,Male,Plain,11,River,0,0.081,H,na,5
+6604,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,50-64,Male,Plain,21,Outdoor,18.8,0.084,H,na,5
+6605,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,33,River,20.4,0.086,H,na,5
+6606,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,11,River,27.1,0.086,H,na,5
+6607,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,24,Outdoor,33.8,0.084,H,na,5
+6608,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,24,River,33.7,0.081,H,na,5
+6609,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,<=14,Male,Plain,24,Outdoor,45.5,0.086,H,na,5
+6610,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,24,River,92.4,0.084,H,na,5
+6611,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,30-49,Male,Plain,11,Building,3.6,0.139,H,na,(2-5)
+6612,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,<=14,Female,Plain,11,River,17.3,0.139,H,na,(2-5)
+6613,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,15-29,Male,Plain,14,Building,40.7,0.255,H,na,(2-5)
+6614,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,<=14,Female,Plain,11,River,143.8,0.241,H,na,(2-5)
+6615,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,30-49,Female,Plain,12,Building,252.3,0.241,H,na,(2-5)
+6616,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,30-49,Female,Plain,12,Outdoor,13.2,0.255,H,na,(2-5)
+6617,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,50-64,Female,Plain,14,Outdoor,28.3,0.241,H,na,(2-5)
+6618,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,>=75,Female,Plain,11,Outdoor,37.6,0.139,H,na,(2-5)
+6619,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,65-74,Male,Plain,24,Outdoor,116.3,0.255,H,na,(2-5)
+6620,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,50-64,Female,Plain,24,Outdoor,29,0.241,H,na,(2-5)
+6621,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,30-49,Male,Plain,11,Building,60,0.062,M,Yes,>200
+6622,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,<=14,Female,Plain,24,Outdoor,70.6,0.189,L,Yes,>200
+6623,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,50-64,Female,Plain,14,Outdoor,159.9,0.086,L,Yes,>200
+6624,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,30-49,Female,Plain,11,Building,370.9,0.062,H,Yes,>200
+6625,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,30-49,Female,Plain,11,Building,521.4,0.032,H,Yes,>200
+6626,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,>=75,Female,Plain,11,Outdoor,156.7,0.062,M,Yes,>200
+6627,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,<=14,Male,Plain,11,Outdoor,349,0.062,L,Yes,>200
+6628,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,65-74,Male,Plain,24,Outdoor,450.6,0.062,L,Yes,>200
+6629,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,30-49,Male,Plain,11,Building,348.8,0.062,H,Yes,>200
+6630,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,30-49,Female,Plain,14,Building,31.4,0.062,L,Yes,>200
+6631,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Male,Mountain,31,Outdoor,13.1,0.004,outside,na,<2
+6632,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Male,Mountain,31,Outdoor,11.8,0.004,outside,na,<2
+6633,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,50-64,Male,Mountain,32,Outdoor,27.8,0.002,outside,na,<2
+6634,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,50-64,Female,Mountain,31,Outdoor,16.4,0.002,outside,na,<2
+6635,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,50-64,Male,Mountain,11,Outdoor,21.7,0.004,outside,na,<2
+6636,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Female,Mountain,51,Outdoor,47.5,0.004,outside,na,<2
+6637,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,<=14,Male,Mountain,51,Outdoor,51.7,0.004,outside,na,<2
+6638,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,<=14,Male,Mountain,32,River,42.4,0.002,outside,na,<2
+6639,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,50-64,Female,Mountain,32,River,48.8,0.002,outside,na,<2
+6640,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Male,Mountain,32,Outdoor,56.7,0.002,outside,na,<2
+6641,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,50-64,Female,Mountain,31,Outdoor,86.3,0.002,outside,na,<2
+6642,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,65-74,Male,Mountain,23,Outdoor,79.7,0.004,outside,na,<2
+6643,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,50-64,Male,Mountain,31,Outdoor,11.8,0.002,outside,na,<2
+6644,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,<=14,Female,Mountain,51,Outdoor,10.6,0.002,outside,na,<2
+6645,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,>=75,Female,Mountain,32,River,57.1,0.004,outside,na,<2
+6646,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,50-64,Female,Mountain,31,Outdoor,52,0.002,outside,na,<2
+6647,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Male,Mountain,31,River,94.5,0.004,outside,na,<2
+6648,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,>=75,Female,Mountain,32,Outdoor,84.7,0.004,outside,na,<2
+6649,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Female,Mountain,23,Outdoor,87.4,0.002,outside,na,<2
+6650,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,65-74,Female,Mountain,32,Outdoor,62.3,0.002,outside,na,<2
+6651,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,50-64,Female,Mountain,51,Outdoor,91.2,0.004,outside,na,<2
+6652,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,65-74,Male,Mountain,32,Outdoor,57.3,0.004,outside,na,<2
+6653,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,<=14,Male,Mountain,33,Outdoor,48.8,0.002,outside,na,<2
+6654,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Male,Mountain,23,Outdoor,49.1,0.004,outside,na,<2
+6655,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Male,Mountain,32,Outdoor,47.4,0.004,outside,na,<2
+6656,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Male,Mountain,32,Outdoor,38.6,0.002,outside,na,<2
+6657,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,>=75,Female,Mountain,32,Outdoor,61.8,0.002,outside,na,<2
+6658,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Male,Mountain,31,Outdoor,66.2,0.004,outside,na,<2
+6659,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Male,Mountain,32,Building,72,0.004,outside,na,<2
+6660,201805,7/8/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,30-49,Female,Mountain,51,Building,94.1,0.002,outside,na,<2
+6661,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,<=14,Male,Plain,11,Building,9.5,0.08,outside,na,(2-5)
+6662,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,50-64,Male,Plain,11,Building,39.7,0.08,outside,na,(2-5)
+6663,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,50-64,Female,Plain,11,Building,82,0.117,outside,na,(2-5)
+6664,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,15-29,Male,Plain,21,Building,183.7,0.08,outside,na,(2-5)
+6665,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,15-29,Male,Plain,24,Building,42.4,0.085,outside,na,(2-5)
+6666,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,30-49,Female,Plain,11,Outdoor,76.2,0.085,outside,na,(2-5)
+6667,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,50-64,Female,Plain,11,Building,102,0.117,outside,na,(2-5)
+6668,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,<=14,Male,Plain,24,Building,63.3,0.117,outside,na,(2-5)
+6669,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,15-29,Female,Plain,31,Outdoor,120,0.08,outside,na,(2-5)
+6670,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,50-64,Male,Plain,24,Building,150.8,0.117,outside,na,(2-5)
+6671,201733,8/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,<=14,Male,Plain,21,Outdoor,46.9,0.02,H,na,(20-50)
+6672,201733,8/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,15-29,Male,Plain,21,Outdoor,83.5,0.036,H,na,(20-50)
+6673,201733,8/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,30-49,Male,Plain,21,Outdoor,101.6,0.024,H,na,(20-50)
+6674,201733,8/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,30-49,Male,Plain,21,Outdoor,267.4,0.02,H,na,(20-50)
+6675,201733,8/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,>=75,Male,Plain,21,Outdoor,586.8,0.024,H,na,(20-50)
+6676,201733,8/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,30-49,Male,Plain,21,Outdoor,1562.5,0.02,H,na,(20-50)
+6677,201733,8/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,30-49,Male,Plain,21,Outdoor,118.1,0.036,H,na,(20-50)
+6678,201733,8/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,50-64,Male,Plain,21,Outdoor,224.4,0.024,H,na,(20-50)
+6679,201733,8/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,65-74,Male,Plain,21,Outdoor,530.6,0.02,H,na,(20-50)
+6680,201733,8/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,30-49,Female,Plain,21,Outdoor,1630.5,0.024,H,na,(20-50)
+6681,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,<=14,Male,Mountain,21,River,37.5,0.05,H,na,(20-50)
+6682,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,65-74,Male,Mountain,33,Outdoor,82.1,0.02,H,na,(20-50)
+6683,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,30-49,Male,Mountain,33,Outdoor,10,0.04,H,na,(20-50)
+6684,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,30-49,Female,Mountain,31,Outdoor,4.7,0.02,H,na,(20-50)
+6685,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,50-64,Female,Mountain,33,Outdoor,11.4,0.05,H,na,(20-50)
+6686,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,65-74,Male,Plain,31,Outdoor,72.9,0.05,H,na,(20-50)
+6687,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,<=14,Male,Mountain,33,Outdoor,77.4,0.04,H,na,(20-50)
+6688,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,<=14,Female,Mountain,31,Outdoor,159,0.05,H,na,(20-50)
+6689,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,<=14,Female,Mountain,33,Outdoor,160,0.02,H,na,(20-50)
+6690,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,50-64,Female,Mountain,21,Outdoor,110.5,0.05,H,na,(20-50)
+6691,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,15-29,Female,Mountain,41,Outdoor,134.1,0.04,H,na,(20-50)
+6692,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,30-49,Male,Mountain,13,Outdoor,268.5,0.04,H,na,(20-50)
+6693,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,30-49,Male,Mountain,31,Outdoor,230.1,0.02,H,na,(20-50)
+6694,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,50-64,Male,Mountain,41,Outdoor,378.7,0.05,H,na,(20-50)
+6695,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,30-49,Male,Mountain,33,Outdoor,223.9,0.05,H,na,(20-50)
+6696,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,15-29,Female,Mountain,32,Outdoor,267.3,0.05,H,na,(20-50)
+6697,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,<=14,Female,Mountain,33,Outdoor,249.7,0.05,H,na,(20-50)
+6698,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,<=14,Male,Mountain,41,Outdoor,164.9,0.05,H,na,(20-50)
+6699,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,>=75,Male,Mountain,31,Outdoor,125.7,0.05,H,na,(20-50)
+6700,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,15-29,Female,Mountain,24,Outdoor,114.9,0.02,H,na,(20-50)
+6701,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,30-49,Female,Mountain,33,Outdoor,106.9,0.04,H,na,(20-50)
+6702,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,65-74,Male,Mountain,33,Outdoor,143,0.05,H,na,(20-50)
+6703,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,30-49,Female,Mountain,21,Outdoor,152.1,0.04,H,na,(20-50)
+6704,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,15-29,Male,Mountain,41,Outdoor,381.3,0.05,H,na,(20-50)
+6705,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,30-49,Male,Mountain,13,Outdoor,300.1,0.04,H,na,(20-50)
+6706,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,15-29,Male,Mountain,41,Outdoor,299.4,0.02,H,na,(20-50)
+6707,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,65-74,Male,Mountain,41,Outdoor,245.9,0.04,H,na,(20-50)
+6708,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,>=75,Male,Mountain,31,Outdoor,453.4,0.02,H,na,(20-50)
+6709,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,<=14,Male,Mountain,33,Outdoor,520.7,0.02,H,na,(20-50)
+6710,201577,2/9/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,65-74,Male,Mountain,33,Outdoor,691.1,0.02,H,na,(20-50)
+6711,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,>=75,Male,Mountain,33,River,11.1,0.013,H,na,>200
+6712,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Female,Mountain,33,Outdoor,2.9,0.004,H,na,>200
+6713,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Male,Mountain,33,Outdoor,29.4,0.004,L,na,>200
+6714,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,65-74,Female,Mountain,33,Outdoor,41.5,0.004,H,na,>200
+6715,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,15-29,Female,Mountain,21,Outdoor,31.8,0.004,H,na,>200
+6716,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Male,Mountain,33,Building,67.3,0.013,L,na,>200
+6717,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Male,Mountain,21,River,70.4,0.004,H,na,>200
+6718,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,>=75,Male,Mountain,33,Outdoor,79.5,0.004,M,na,>200
+6719,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,<=14,Female,Mountain,33,Outdoor,192.3,0.004,H,na,>200
+6720,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,65-74,Female,Mountain,33,Outdoor,143.3,0.004,H,na,>200
+6721,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,>=75,Female,Mountain,21,Outdoor,94.2,0.013,L,na,>200
+6722,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,15-29,Male,Mountain,21,Outdoor,207.3,0.004,L,na,>200
+6723,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Male,Mountain,21,Outdoor,378.5,0.011,L,na,>200
+6724,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Female,Mountain,21,River,121.1,0.011,H,na,>200
+6725,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,<=14,Female,Plain,32,Outdoor,125.6,0.011,H,na,>200
+6726,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Female,Mountain,21,Outdoor,652,0.004,H,na,>200
+6727,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,50-64,Female,Mountain,21,Outdoor,310.3,0.004,H,na,>200
+6728,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Male,Mountain,33,River,331.5,0.011,H,na,>200
+6729,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,15-29,Female,Mountain,33,River,211.5,0.004,H,na,>200
+6730,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,<=14,Female,Mountain,33,Outdoor,99.5,0.013,M,na,>200
+6731,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,50-64,Female,Mountain,33,Outdoor,144.8,0.004,H,na,>200
+6732,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Female,Mountain,21,Outdoor,293.7,0.004,H,na,>200
+6733,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,50-64,Female,Mountain,31,River,201.6,0.013,L,na,>200
+6734,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,50-64,Female,Mountain,21,Outdoor,251.8,0.004,H,na,>200
+6735,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,50-64,Female,Mountain,11,Outdoor,719.3,0.004,L,na,>200
+6736,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Male,Mountain,21,River,1400.9,0.013,L,na,>200
+6737,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,>=75,Female,Mountain,11,Outdoor,355.8,0.013,H,na,>200
+6738,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,65-74,Male,Mountain,21,Outdoor,626,0.004,H,na,>200
+6739,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,50-64,Male,Mountain,24,Outdoor,921.5,0.011,H,na,>200
+6740,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,50-64,Male,Mountain,24,Outdoor,145.5,0.011,L,na,>200
+6741,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Mountain,21,Outdoor,37.5,0.008,H,Yes,(100-200)
+6742,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Male,Mountain,21,Outdoor,1051.2,0.014,H,Yes,(100-200)
+6743,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,21,Outdoor,1839.8,0.014,H,Yes,(100-200)
+6744,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Male,Mountain,21,Outdoor,357,0.014,H,Yes,(100-200)
+6745,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Mountain,21,Outdoor,498,0.014,H,Yes,(100-200)
+6746,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Female,Mountain,51,River,669.4,0.032,L,Yes,(100-200)
+6747,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Mountain,21,Outdoor,50.7,0.014,L,Yes,(100-200)
+6748,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Male,Mountain,21,Outdoor,63,0.032,H,Yes,(100-200)
+6749,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Plain,21,Outdoor,184.5,0.032,H,Yes,(100-200)
+6750,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Mountain,21,River,231.4,0.032,H,Yes,(100-200)
+6751,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Mountain,21,Outdoor,411.6,0.008,H,Yes,(100-200)
+6752,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Male,Mountain,21,Outdoor,682.5,0.032,H,Yes,(100-200)
+6753,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,21,Outdoor,975,0.032,H,Yes,(100-200)
+6754,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,21,Outdoor,1295.4,0.032,H,Yes,(100-200)
+6755,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,21,Outdoor,1678.5,0.032,L,Yes,(100-200)
+6756,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,21,Outdoor,2500,0.032,H,Yes,(100-200)
+6757,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Mountain,21,Outdoor,80.1,0.032,L,Yes,(100-200)
+6758,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,11,Outdoor,123.3,0.032,H,Yes,(100-200)
+6759,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Male,Plain,21,Outdoor,382.4,0.032,L,Yes,(100-200)
+6760,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Mountain,21,Outdoor,557.4,0.032,H,Yes,(100-200)
+6761,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,21,Outdoor,739.8,0.008,H,Yes,(100-200)
+6762,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Mountain,21,Outdoor,934.2,0.014,H,Yes,(100-200)
+6763,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Mountain,11,Outdoor,1080.8,0.032,L,Yes,(100-200)
+6764,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Mountain,21,Outdoor,1753.4,0.032,H,Yes,(100-200)
+6765,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Female,Mountain,21,Outdoor,2537.7,0.014,H,Yes,(100-200)
+6766,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,21,Outdoor,85.1,0.014,H,Yes,(100-200)
+6767,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Male,Mountain,21,Outdoor,109.1,0.032,H,Yes,(100-200)
+6768,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,12,Outdoor,352.1,0.032,L,Yes,(100-200)
+6769,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Mountain,21,Outdoor,488.7,0.014,H,Yes,(100-200)
+6770,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Mountain,21,Outdoor,611.8,0.008,H,Yes,(100-200)
+6771,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,21,Outdoor,867.3,0.014,H,Yes,(100-200)
+6772,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Mountain,51,Outdoor,1346.3,0.014,H,Yes,(100-200)
+6773,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,21,Outdoor,1880,0.008,H,Yes,(100-200)
+6774,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Female,Mountain,21,Outdoor,2152.2,0.014,L,Yes,(100-200)
+6775,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Male,Plain,21,Outdoor,84.6,0.032,H,Yes,(100-200)
+6776,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Mountain,21,Outdoor,179.1,0.032,H,Yes,(100-200)
+6777,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Female,Mountain,21,Outdoor,230.3,0.014,H,Yes,(100-200)
+6778,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,21,Outdoor,425,0.008,L,Yes,(100-200)
+6779,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Male,Mountain,21,Outdoor,689.1,0.014,L,Yes,(100-200)
+6780,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Male,Mountain,21,Outdoor,976.6,0.014,H,Yes,(100-200)
+6781,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Male,Mountain,24,Outdoor,1291.7,0.014,H,Yes,(100-200)
+6782,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Female,Mountain,21,Outdoor,1594.8,0.008,H,Yes,(100-200)
+6783,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Female,Mountain,24,Outdoor,2036.4,0.008,L,Yes,(100-200)
+6784,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Female,Mountain,21,Outdoor,94,0.014,L,Yes,(100-200)
+6785,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Female,Mountain,21,Outdoor,155.9,0.008,L,Yes,(100-200)
+6786,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,21,Outdoor,392,0.014,L,Yes,(100-200)
+6787,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Male,Mountain,21,Outdoor,455.2,0.032,H,Yes,(100-200)
+6788,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Male,Mountain,21,Outdoor,767.8,0.032,H,Yes,(100-200)
+6789,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Male,Mountain,21,Outdoor,972.3,0.014,L,Yes,(100-200)
+6790,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Male,Mountain,21,Outdoor,1126.6,0.014,H,Yes,(100-200)
+6791,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Male,Mountain,24,Outdoor,1547,0.008,L,Yes,(100-200)
+6792,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Male,Mountain,21,Outdoor,2123.2,0.014,H,Yes,(100-200)
+6793,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Female,Mountain,21,Outdoor,148.4,0.014,H,Yes,(100-200)
+6794,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Mountain,21,Outdoor,216.3,0.032,L,Yes,(100-200)
+6795,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,21,Outdoor,554.4,0.008,H,Yes,(100-200)
+6796,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Male,Mountain,21,Outdoor,763.2,0.014,H,Yes,(100-200)
+6797,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Male,Mountain,21,Outdoor,802,0.032,H,Yes,(100-200)
+6798,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Male,Mountain,21,Outdoor,1286.6,0.014,L,Yes,(100-200)
+6799,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Female,Mountain,21,Outdoor,1797.9,0.014,H,Yes,(100-200)
+6800,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Female,Mountain,21,Building,2005.2,0.008,H,Yes,(100-200)
+6801,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Mountain,24,Building,253.8,0.014,L,Yes,(100-200)
+6802,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Male,Mountain,51,Building,425.2,0.032,L,Yes,(100-200)
+6803,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Plain,21,Building,779.8,0.014,H,Yes,(100-200)
+6804,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Female,Plain,21,Building,869.4,0.014,H,Yes,(100-200)
+6805,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Female,Mountain,21,Building,1166.9,0.008,L,Yes,(100-200)
+6806,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Male,Mountain,21,Outdoor,1846,0.032,H,Yes,(100-200)
+6807,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Mountain,14,Outdoor,2029.4,0.014,L,Yes,(100-200)
+6808,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Male,Mountain,21,Outdoor,229.7,0.014,L,Yes,(100-200)
+6809,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Male,Plain,21,Outdoor,467,0.014,L,Yes,(100-200)
+6810,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,21,Outdoor,774.4,0.032,L,Yes,(100-200)
+6811,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,24,Outdoor,253.1,0.008,H,Yes,(100-200)
+6812,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Male,Mountain,12,Outdoor,564.8,0.032,L,Yes,(100-200)
+6813,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Male,Mountain,24,Outdoor,798.5,0.032,L,Yes,(100-200)
+6814,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Male,Mountain,21,Building,372.5,0.014,H,Yes,(100-200)
+6815,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Female,Mountain,21,Building,494.2,0.014,L,Yes,(100-200)
+6816,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Mountain,21,Building,626.1,0.014,H,Yes,(100-200)
+6817,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Female,Mountain,21,Building,496.3,0.008,H,Yes,(100-200)
+6818,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,21,Building,457,0.008,L,Yes,(100-200)
+6819,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Female,Mountain,51,Outdoor,1253.2,0.008,H,Yes,(100-200)
+6820,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Male,Mountain,51,Outdoor,1256.2,0.008,H,Yes,(100-200)
+6821,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,21,Outdoor,1353.6,0.008,H,Yes,(100-200)
+6822,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,<=14,Male,Mountain,21,Outdoor,1038.4,0.014,H,Yes,(100-200)
+6823,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,51,Outdoor,1036.2,0.008,H,Yes,(100-200)
+6824,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,21,Outdoor,1583,0.014,L,Yes,(100-200)
+6825,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Plain,21,Building,1490.7,0.032,H,Yes,(100-200)
+6826,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Male,Mountain,21,Building,1545.7,0.008,H,Yes,(100-200)
+6827,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Plain,21,Building,1015.8,0.032,H,Yes,(100-200)
+6828,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Plain,21,Building,1784.7,0.014,H,Yes,(100-200)
+6829,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,15-29,Female,Mountain,21,Outdoor,1240.3,0.008,L,Yes,(100-200)
+6830,201583,4/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Male,Mountain,21,Outdoor,1598.6,0.032,H,Yes,(100-200)
+6831,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,30-49,Female,Plain,21,Outdoor,94.1,0.014,L,Yes,(100-200)
+6832,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,<=14,Male,Mountain,21,Outdoor,74.7,0.008,H,Yes,(100-200)
+6833,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,50-64,Female,Mountain,21,Outdoor,122.6,0.014,H,Yes,(100-200)
+6834,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,15-29,Male,Mountain,21,Outdoor,139.7,0.014,H,Yes,(100-200)
+6835,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,30-49,Male,Mountain,21,Outdoor,4.5,0.014,H,Yes,(100-200)
+6836,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,30-49,Male,Mountain,11,Outdoor,295.9,0.014,L,Yes,(100-200)
+6837,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,>=75,Male,Plain,21,Outdoor,374.3,0.014,H,Yes,(100-200)
+6838,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,15-29,Female,Mountain,21,River,721.6,0.008,H,Yes,(100-200)
+6839,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,30-49,Male,Mountain,21,Outdoor,884.8,0.008,H,Yes,(100-200)
+6840,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,30-49,Female,Mountain,21,Outdoor,884.6,0.014,H,Yes,(100-200)
+6841,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,<=14,Male,Mountain,21,Outdoor,1404,0.014,H,Yes,(100-200)
+6842,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,50-64,Female,Mountain,21,Outdoor,559.9,0.014,H,Yes,(100-200)
+6843,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,30-49,Female,Plain,21,Outdoor,571,0.014,H,Yes,(100-200)
+6844,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,30-49,Female,Mountain,21,Outdoor,299.9,0.032,L,Yes,(100-200)
+6845,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,15-29,Male,Mountain,21,Outdoor,258.4,0.014,H,Yes,(100-200)
+6846,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,<=14,Female,Mountain,21,Outdoor,318.3,0.032,H,Yes,(100-200)
+6847,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,15-29,Male,Mountain,21,Outdoor,1399.9,0.008,L,Yes,(100-200)
+6848,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,50-64,Male,Mountain,21,Outdoor,1058,0.032,H,Yes,(100-200)
+6849,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,<=14,Male,Mountain,21,Outdoor,1872.1,0.014,L,Yes,(100-200)
+6850,201584,4/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,50-64,Male,Mountain,21,Building,2457.9,0.032,H,Yes,(100-200)
+6851,201290,7/10/1977,Piemonte,Alessandria,Alessandria,Bormida,65-74,Male,Mountain,21,Outdoor,744.9,0.032,H,Yes,>200
+6852,201290,7/10/1977,Piemonte,Alessandria,Alessandria,Bormida,30-49,Male,Mountain,21,Outdoor,931.4,0.032,H,Yes,>200
+6853,201290,7/10/1977,Piemonte,Alessandria,Alessandria,Bormida,65-74,Male,Plain,11,Building,1424.7,0.014,H,Yes,>200
+6854,201290,7/10/1977,Piemonte,Alessandria,Alessandria,Bormida,>=75,Male,Mountain,21,Building,1511.5,0.008,L,Yes,>200
+6855,201290,7/10/1977,Piemonte,Alessandria,Alessandria,Bormida,30-49,Male,Mountain,21,Outdoor,1547.9,0.014,H,Yes,>200
+6856,201290,7/10/1977,Piemonte,Alessandria,Alessandria,Bormida,50-64,Male,Mountain,21,Building,529,0.014,H,Yes,>200
+6857,201290,7/10/1977,Piemonte,Alessandria,Alessandria,Bormida,>=75,Male,Mountain,24,Outdoor,486.5,0.008,H,Yes,>200
+6858,201290,7/10/1977,Piemonte,Alessandria,Alessandria,Bormida,>=75,Male,Mountain,21,Outdoor,63.6,0.008,L,Yes,>200
+6859,201290,7/10/1977,Piemonte,Alessandria,Alessandria,Bormida,50-64,Female,Mountain,21,Outdoor,133.5,0.008,H,Yes,>200
+6860,201290,7/10/1977,Piemonte,Alessandria,Alessandria,Bormida,>=75,Male,Mountain,21,Outdoor,394.9,0.032,L,Yes,>200
+6861,201630,4/11/1994,Piemonte,Cuneo,Dogliani,Rea,30-49,Male,Mountain,31,Outdoor,197.1,0.006,outside,Yes,(100-200)
+6862,201630,4/11/1994,Piemonte,Cuneo,Dogliani,Rea,<=14,Male,Mountain,24,Outdoor,222.3,0.006,outside,Yes,(100-200)
+6863,201630,4/11/1994,Piemonte,Cuneo,Dogliani,Rea,>=75,Female,Mountain,24,Building,588.7,0.016,outside,Yes,(100-200)
+6864,201630,4/11/1994,Piemonte,Cuneo,Dogliani,Rea,30-49,Male,Mountain,24,Outdoor,339.4,0.016,outside,Yes,(100-200)
+6865,201630,4/11/1994,Piemonte,Cuneo,Dogliani,Rea,>=75,Male,Mountain,24,Outdoor,266.5,0.022,outside,Yes,(100-200)
+6866,201630,4/11/1994,Piemonte,Cuneo,Dogliani,Rea,15-29,Male,Mountain,24,Outdoor,350.4,0.006,outside,Yes,(100-200)
+6867,201630,4/11/1994,Piemonte,Cuneo,Dogliani,Rea,>=75,Female,Mountain,24,Building,361.5,0.017,outside,Yes,(100-200)
+6868,201630,4/11/1994,Piemonte,Cuneo,Dogliani,Rea,30-49,Male,Mountain,24,Building,582.3,0.017,outside,Yes,(100-200)
+6869,201630,4/11/1994,Piemonte,Cuneo,Dogliani,Rea,50-64,Male,Mountain,24,Outdoor,531.8,0.022,outside,Yes,(100-200)
+6870,201630,4/11/1994,Piemonte,Cuneo,Dogliani,Rea,15-29,Female,Mountain,31,Building,563.8,0.022,outside,Yes,(100-200)
+6871,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,30-49,Male,Mountain,11,Outdoor,10.7,0.028,outside,Yes,(100-200)
+6872,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,50-64,Male,Mountain,12,Outdoor,7.3,0.028,outside,Yes,(100-200)
+6873,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,50-64,Female,Mountain,24,Outdoor,36.1,0.028,outside,Yes,(100-200)
+6874,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,30-49,Male,Mountain,24,Outdoor,39.8,0.02,outside,Yes,(100-200)
+6875,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,15-29,Female,Mountain,21,Outdoor,33.5,0.048,outside,Yes,(100-200)
+6876,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,50-64,Female,Mountain,11,River,27.5,0.02,outside,Yes,(100-200)
+6877,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,65-74,Male,Mountain,24,River,23.7,0.02,outside,Yes,(100-200)
+6878,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,<=14,Male,Mountain,22,Outdoor,21.1,0.048,outside,Yes,(100-200)
+6879,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,30-49,Male,Mountain,31,Outdoor,21.2,0.048,outside,Yes,(100-200)
+6880,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,>=75,Male,Mountain,24,Building,17.2,0.028,outside,Yes,(100-200)
+6881,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,65-74,Male,Mountain,22,Outdoor,38.3,0.02,outside,Yes,(100-200)
+6882,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,<=14,Male,Mountain,22,Outdoor,38.5,0.048,outside,Yes,(100-200)
+6883,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,65-74,Male,Mountain,24,Outdoor,16.8,0.02,outside,Yes,(100-200)
+6884,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,30-49,Female,Mountain,24,Outdoor,21.1,0.028,outside,Yes,(100-200)
+6885,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,50-64,Female,Mountain,12,River,24.4,0.028,outside,Yes,(100-200)
+6886,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,30-49,Female,Mountain,22,Outdoor,28.9,0.048,outside,Yes,(100-200)
+6887,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,50-64,Male,Mountain,22,Building,16.8,0.048,outside,Yes,(100-200)
+6888,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,>=75,Male,Mountain,21,Outdoor,13.3,0.048,outside,Yes,(100-200)
+6889,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,<=14,Female,Mountain,22,Outdoor,9.2,0.048,outside,Yes,(100-200)
+6890,201626,4/11/1994,Piemonte,Asti,Canelli,Belbo,50-64,Male,Mountain,24,Building,7.7,0.028,outside,Yes,(100-200)
+6891,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,15-29,Female,Plain,51,Outdoor,76.6,0.033,H,No,5
+6892,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,>=75,Male,Plain,24,Outdoor,114.6,0.048,H,No,5
+6893,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,65-74,Female,Plain,51,Outdoor,318.6,0.051,H,No,5
+6894,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,15-29,Female,Plain,24,Outdoor,512.2,0.033,H,No,5
+6895,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,50-64,Male,Plain,31,Outdoor,701.6,0.033,H,No,5
+6896,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,65-74,Male,Plain,51,Outdoor,94.1,0.051,H,No,5
+6897,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,15-29,Female,Plain,24,Outdoor,132.8,0.048,H,No,5
+6898,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,30-49,Female,Plain,24,River,291,0.048,H,No,5
+6899,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,30-49,Male,Plain,31,River,468.1,0.033,H,No,5
+6900,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,30-49,Male,Plain,51,River,93.9,0.033,H,No,5
+6901,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,50-64,Female,Plain,24,Outdoor,160.3,0.051,H,No,5
+6902,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,<=14,Female,Plain,13,Outdoor,290.3,0.051,H,No,5
+6903,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,15-29,Male,Plain,24,Outdoor,560.3,0.048,H,No,5
+6904,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,<=14,Female,Plain,11,Outdoor,70.5,0.048,H,No,5
+6905,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,<=14,Female,Plain,11,Outdoor,104.2,0.051,H,No,5
+6906,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,15-29,Male,Plain,13,Outdoor,61.9,0.033,H,No,5
+6907,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,30-49,Male,Plain,51,River,132.3,0.048,H,No,5
+6908,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,30-49,Male,Plain,24,Outdoor,179,0.033,H,No,5
+6909,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,50-64,Female,Plain,51,Outdoor,18.1,0.048,H,No,5
+6910,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,30-49,Female,Plain,24,River,50.4,0.033,H,No,5
+6911,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,<=14,Female,Mountain,31,Outdoor,472.5,0.004,outside,Yes,(20-50)
+6912,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,30-49,Male,Mountain,31,Outdoor,517.3,0.009,outside,Yes,(20-50)
+6913,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Female,Mountain,33,Outdoor,22.6,0.004,outside,Yes,(20-50)
+6914,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Male,Mountain,24,Outdoor,46.6,0.009,outside,Yes,(20-50)
+6915,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Female,Mountain,31,Outdoor,23.8,0.009,outside,Yes,(20-50)
+6916,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Male,Mountain,31,Outdoor,15,0.005,outside,Yes,(20-50)
+6917,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,65-74,Male,Mountain,23,Outdoor,49.1,0.005,outside,Yes,(20-50)
+6918,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,15-29,Male,Mountain,11,Building,71,0.009,outside,Yes,(20-50)
+6919,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Male,Mountain,11,Outdoor,538.2,0.009,outside,Yes,(20-50)
+6920,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,15-29,Male,Mountain,32,Outdoor,558.6,0.009,outside,Yes,(20-50)
+6921,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,15-29,Male,Mountain,32,Outdoor,515.2,0.009,outside,Yes,(20-50)
+6922,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,30-49,Male,Mountain,23,Outdoor,533,0.009,outside,Yes,(20-50)
+6923,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Female,Mountain,33,Outdoor,503,0.005,outside,Yes,(20-50)
+6924,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,15-29,Female,Mountain,31,Outdoor,446.7,0.004,outside,Yes,(20-50)
+6925,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Male,Mountain,31,Outdoor,546.8,0.005,outside,Yes,(20-50)
+6926,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,15-29,Female,Mountain,33,Outdoor,605.6,0.005,outside,Yes,(20-50)
+6927,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Male,Mountain,31,Outdoor,202.4,0.009,outside,Yes,(20-50)
+6928,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,30-49,Male,Mountain,24,Outdoor,379.4,0.005,outside,Yes,(20-50)
+6929,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,30-49,Female,Mountain,31,Outdoor,230.4,0.005,outside,Yes,(20-50)
+6930,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,30-49,Male,Mountain,31,Building,332.7,0.004,outside,Yes,(20-50)
+6931,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Male,Mountain,11,Outdoor,337.7,0.009,outside,Yes,(20-50)
+6932,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Male,Mountain,24,Building,311.5,0.005,outside,Yes,(20-50)
+6933,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,15-29,Female,Mountain,31,Outdoor,336.7,0.005,outside,Yes,(20-50)
+6934,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,<=14,Male,Mountain,23,Outdoor,257.6,0.009,outside,Yes,(20-50)
+6935,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,15-29,Male,Mountain,23,Outdoor,244.5,0.004,outside,Yes,(20-50)
+6936,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,>=75,Male,Mountain,24,Outdoor,113.8,0.005,outside,Yes,(20-50)
+6937,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,>=75,Female,Mountain,23,Outdoor,91.4,0.004,outside,Yes,(20-50)
+6938,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,65-74,Female,Mountain,31,Outdoor,170.3,0.009,outside,Yes,(20-50)
+6939,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,30-49,Female,Mountain,31,Outdoor,179.6,0.005,outside,Yes,(20-50)
+6940,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Female,Mountain,31,Outdoor,107.3,0.005,outside,Yes,(20-50)
+6941,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,30-49,Male,Mountain,21,Outdoor,176.3,0.013,H,na,(10-20)
+6942,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,>=75,Female,Mountain,13,River,110.1,0.013,H,na,(10-20)
+6943,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,50-64,Male,Mountain,51,Outdoor,105.2,0.007,H,na,(10-20)
+6944,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,>=75,Female,Mountain,21,Outdoor,45.1,0.013,H,na,(10-20)
+6945,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,15-29,Male,Mountain,51,Outdoor,27.3,0.011,H,na,(10-20)
+6946,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,30-49,Male,Mountain,21,Outdoor,31.7,0.011,H,na,(10-20)
+6947,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,50-64,Female,Mountain,21,Outdoor,641.9,0.007,H,na,(10-20)
+6948,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,50-64,Female,Mountain,21,Outdoor,791.3,0.013,H,na,(10-20)
+6949,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,65-74,Male,Mountain,21,Outdoor,922.2,0.013,H,na,(10-20)
+6950,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,15-29,Male,Mountain,21,River,288.4,0.011,H,na,(10-20)
+6951,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,65-74,Male,Mountain,24,Outdoor,89.3,0.014,H,na,(2-5)
+6952,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,30-49,Male,Mountain,31,Outdoor,77.9,0.011,H,na,(2-5)
+6953,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,>=75,Female,Mountain,21,Outdoor,70.7,0.011,H,na,(2-5)
+6954,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,30-49,Female,Mountain,21,Outdoor,32.5,0.011,H,na,(2-5)
+6955,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,30-49,Female,Mountain,51,Outdoor,46.5,0.011,H,na,(2-5)
+6956,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,30-49,Male,Mountain,21,Outdoor,154.9,0.011,H,na,(2-5)
+6957,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,30-49,Female,Mountain,21,Outdoor,360.3,0.024,H,na,(2-5)
+6958,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,15-29,Male,Mountain,33,Outdoor,223.3,0.014,H,na,(2-5)
+6959,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,30-49,Male,Mountain,24,Outdoor,246,0.014,H,na,(2-5)
+6960,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,<=14,Female,Mountain,21,Outdoor,292.7,0.011,H,na,(2-5)
+6961,201286,7/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,<=14,Female,Mountain,21,Outdoor,3,0.016,H,Yes,<2
+6962,201286,7/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,30-49,Male,Mountain,24,Outdoor,2.9,0.028,H,Yes,<2
+6963,201286,7/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,30-49,Male,Mountain,21,Outdoor,60,0.028,H,Yes,<2
+6964,201286,7/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,30-49,Female,Mountain,31,Outdoor,31.3,0.013,H,Yes,<2
+6965,201286,7/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,50-64,Female,Mountain,21,River,8.8,0.028,H,Yes,<2
+6966,201286,7/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,65-74,Female,Mountain,21,Outdoor,4.5,0.028,H,Yes,<2
+6967,201286,7/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,50-64,Male,Mountain,21,Outdoor,26.6,0.016,H,Yes,<2
+6968,201286,7/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,<=14,Male,Mountain,21,Outdoor,78.6,0.016,H,Yes,<2
+6969,201286,7/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,30-49,Male,Mountain,21,Outdoor,263.4,0.028,H,Yes,<2
+6970,201286,7/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,30-49,Male,Mountain,21,Outdoor,698.2,0.028,H,Yes,<2
+6971,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,<=14,Male,Mountain,24,Building,5.4,0.024,outside,na,<2
+6972,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,30-49,Male,Mountain,24,Outdoor,20.2,0.024,outside,na,<2
+6973,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,>=75,Male,Mountain,31,River,41.4,0.004,outside,na,<2
+6974,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,30-49,Male,Mountain,32,Outdoor,75.1,0.024,outside,na,<2
+6975,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,65-74,Female,Mountain,24,Outdoor,112.9,0.004,outside,na,<2
+6976,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,<=14,Female,Mountain,24,Outdoor,7.5,0.024,outside,na,<2
+6977,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,>=75,Female,Mountain,31,Outdoor,17.8,0.004,outside,na,<2
+6978,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,15-29,Male,Mountain,24,River,31.9,0.004,outside,na,<2
+6979,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,65-74,Female,Mountain,24,Outdoor,61.6,0.004,outside,na,<2
+6980,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,65-74,Male,Mountain,11,Outdoor,130.5,0.004,outside,na,<2
+6981,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,65-74,Male,Mountain,24,Outdoor,2.7,0.004,outside,na,<2
+6982,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,>=75,Female,Mountain,24,Outdoor,27,0.024,outside,na,<2
+6983,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,15-29,Female,Mountain,32,Outdoor,49,0.004,outside,na,<2
+6984,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,50-64,Male,Mountain,24,River,1.4,0.004,outside,na,<2
+6985,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,30-49,Female,Mountain,24,Outdoor,22.3,0.024,outside,na,<2
+6986,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,50-64,Female,Mountain,11,River,12.4,0.024,outside,na,<2
+6987,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,65-74,Male,Mountain,24,Outdoor,10.2,0.004,outside,na,<2
+6988,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,<=14,Female,Mountain,24,Outdoor,8.7,0.024,outside,na,<2
+6989,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,65-74,Male,Mountain,24,Outdoor,161.4,0.004,outside,na,<2
+6990,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,50-64,Female,Mountain,24,Bridge,125.1,0.004,outside,na,<2
+6991,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,30-49,Male,Mountain,24,Outdoor,4,0.006,H,No,(50-100)
+6992,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,30-49,Female,Mountain,24,Building,18.1,0.006,M,No,(50-100)
+6993,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,50-64,Female,Mountain,24,River,20.5,0.022,M,No,(50-100)
+6994,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,50-64,Male,Mountain,31,Outdoor,176.1,0.022,H,No,(50-100)
+6995,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,50-64,Male,Mountain,24,Outdoor,194,0.006,M,No,(50-100)
+6996,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,30-49,Female,Mountain,24,Building,1277.1,0.006,H,No,(50-100)
+6997,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,30-49,Female,Mountain,24,Building,390.3,0.006,M,No,(50-100)
+6998,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,<=14,Male,Mountain,24,Building,520.2,0.022,H,No,(50-100)
+6999,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,<=14,Male,Mountain,11,Outdoor,704.5,0.006,H,No,(50-100)
+7000,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,>=75,Male,Mountain,31,Outdoor,55,0.006,H,No,(50-100)
+7001,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,50-64,Female,Mountain,23,River,50,0.007,outside,Yes,(100-200)
+7002,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,30-49,Male,Mountain,32,Building,97.2,0.003,outside,Yes,(100-200)
+7003,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,65-74,Female,Mountain,11,Outdoor,153,0.007,outside,Yes,(100-200)
+7004,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,30-49,Female,Mountain,51,Building,47.5,0.007,outside,Yes,(100-200)
+7005,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,<=14,Female,Mountain,24,Outdoor,90.7,0.003,outside,Yes,(100-200)
+7006,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,65-74,Male,Mountain,11,Outdoor,129,0.007,outside,Yes,(100-200)
+7007,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,30-49,Female,Mountain,51,Outdoor,46.6,0.007,outside,Yes,(100-200)
+7008,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,<=14,Female,Mountain,31,Outdoor,91.5,0.01,outside,Yes,(100-200)
+7009,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,>=75,Male,Mountain,23,Outdoor,188.9,0.003,outside,Yes,(100-200)
+7010,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,<=14,Male,Mountain,23,Outdoor,89.6,0.01,outside,Yes,(100-200)
+7011,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,>=75,Male,Mountain,31,Outdoor,10.8,0.008,outside,Yes,(100-200)
+7012,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,>=75,Male,Mountain,31,Outdoor,21.2,0.002,outside,Yes,(100-200)
+7013,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,15-29,Male,Mountain,32,Outdoor,78.1,0.008,outside,Yes,(100-200)
+7014,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,15-29,Male,Mountain,31,Outdoor,163.5,0.008,outside,Yes,(100-200)
+7015,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,30-49,Female,Mountain,32,Outdoor,152.3,0.008,outside,Yes,(100-200)
+7016,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,30-49,Female,Mountain,12,Outdoor,183.2,0.008,outside,Yes,(100-200)
+7017,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,30-49,Male,Mountain,32,Outdoor,39.8,0.008,outside,Yes,(100-200)
+7018,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,>=75,Female,Mountain,31,Outdoor,184.9,0.008,outside,Yes,(100-200)
+7019,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,65-74,Female,Mountain,31,Outdoor,53.6,0.002,outside,Yes,(100-200)
+7020,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,15-29,Female,Mountain,31,Outdoor,139.2,0.008,outside,Yes,(100-200)
+7021,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,65-74,Female,Mountain,31,Outdoor,29.3,0.003,outside,Yes,(100-200)
+7022,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,65-74,Male,Mountain,31,Building,19.7,0.003,outside,Yes,(100-200)
+7023,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,65-74,Female,Mountain,24,Building,63.3,0.007,outside,Yes,(100-200)
+7024,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,>=75,Male,Mountain,24,Outdoor,73,0.007,outside,Yes,(100-200)
+7025,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,>=75,Female,Mountain,31,Outdoor,77.5,0.007,outside,Yes,(100-200)
+7026,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,<=14,Male,Mountain,24,Building,50.5,0.01,outside,Yes,(100-200)
+7027,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,<=14,Female,Mountain,31,Building,41.6,0.007,outside,Yes,(100-200)
+7028,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,>=75,Female,Mountain,23,Outdoor,52.5,0.01,outside,Yes,(100-200)
+7029,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,30-49,Female,Mountain,11,Outdoor,52,0.007,outside,Yes,(100-200)
+7030,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,30-49,Female,Mountain,11,Outdoor,8.2,0.01,outside,Yes,(100-200)
+7031,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,30-49,Female,Mountain,24,Outdoor,14.8,0.003,outside,na,5
+7032,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,30-49,Female,Mountain,24,Outdoor,98.6,0.005,outside,na,5
+7033,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,<=14,Male,Mountain,24,River,68.4,0.005,outside,na,5
+7034,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,15-29,Male,Mountain,23,River,93.9,0.005,outside,na,5
+7035,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,50-64,Female,Mountain,12,Outdoor,135.3,0.005,outside,na,5
+7036,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,65-74,Male,Mountain,23,Outdoor,116.2,0.005,outside,na,5
+7037,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,30-49,Male,Mountain,24,Outdoor,115,0.005,outside,na,5
+7038,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,>=75,Female,Mountain,24,Outdoor,114.1,0.005,outside,na,5
+7039,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,>=75,Female,Mountain,12,Building,123.2,0.003,outside,na,5
+7040,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,15-29,Female,Mountain,23,Building,101.8,0.005,outside,na,5
+7041,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,30-49,Female,Mountain,24,Outdoor,135.8,0.003,outside,na,5
+7042,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,30-49,Male,Mountain,32,Building,41.1,0.005,outside,na,5
+7043,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,30-49,Female,Mountain,24,Outdoor,59.2,0.005,outside,na,5
+7044,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,15-29,Male,Mountain,23,Outdoor,48.3,0.003,outside,na,5
+7045,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,50-64,Male,Mountain,23,Outdoor,59.9,0.003,outside,na,5
+7046,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,>=75,Male,Mountain,32,Outdoor,103,0.003,outside,na,5
+7047,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,30-49,Female,Mountain,12,Outdoor,117.4,0.003,outside,na,5
+7048,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,>=75,Male,Mountain,23,Outdoor,149.4,0.005,outside,na,5
+7049,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,50-64,Female,Mountain,24,Outdoor,126.9,0.005,outside,na,5
+7050,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,65-74,Female,Mountain,24,Outdoor,142.5,0.005,outside,na,5
+7051,203036,2/4/1981,Piemonte,Torino,Ronco Canavese,Soana,>=75,Female,Mountain,31,River,57.3,0.003,outside,na,(10-20)
+7052,203036,2/4/1981,Piemonte,Torino,Ronco Canavese,Soana,>=75,Male,Mountain,23,River,39.6,0.001,outside,na,(10-20)
+7053,203036,2/4/1981,Piemonte,Torino,Ronco Canavese,Soana,65-74,Female,Mountain,23,Outdoor,45.9,0.001,outside,na,(10-20)
+7054,203036,2/4/1981,Piemonte,Torino,Ronco Canavese,Soana,50-64,Male,Mountain,31,Outdoor,38.2,0.001,outside,na,(10-20)
+7055,203036,2/4/1981,Piemonte,Torino,Ronco Canavese,Soana,>=75,Female,Mountain,32,River,31.2,0.001,outside,na,(10-20)
+7056,203036,2/4/1981,Piemonte,Torino,Ronco Canavese,Soana,50-64,Male,Mountain,32,Outdoor,43.3,0.001,outside,na,(10-20)
+7057,203036,2/4/1981,Piemonte,Torino,Ronco Canavese,Soana,65-74,Male,Mountain,32,Outdoor,13.8,0.003,outside,na,(10-20)
+7058,203036,2/4/1981,Piemonte,Torino,Ronco Canavese,Soana,65-74,Male,Mountain,31,River,1.6,0.001,outside,na,(10-20)
+7059,203036,2/4/1981,Piemonte,Torino,Ronco Canavese,Soana,65-74,Male,Mountain,31,River,21.6,0.001,outside,na,(10-20)
+7060,203036,2/4/1981,Piemonte,Torino,Ronco Canavese,Soana,65-74,Male,Mountain,23,Outdoor,28.2,0.003,outside,na,(10-20)
+7061,201353,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,50-64,Female,Mountain,31,Outdoor,547.3,0.004,outside,na,(20-50)
+7062,201353,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,15-29,Male,Mountain,32,Outdoor,543.8,0.004,outside,na,(20-50)
+7063,201353,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,30-49,Male,Mountain,31,Outdoor,416.9,0.004,outside,na,(20-50)
+7064,201353,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,30-49,Male,Mountain,31,Building,500.8,0.004,outside,na,(20-50)
+7065,201353,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,30-49,Female,Mountain,32,Outdoor,549.9,0.004,outside,na,(20-50)
+7066,201353,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,30-49,Male,Mountain,32,Outdoor,211.2,0.004,outside,na,(20-50)
+7067,201353,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,30-49,Male,Mountain,32,Outdoor,351.1,0.004,outside,na,(20-50)
+7068,201353,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,<=14,Female,Mountain,32,Outdoor,222.8,0.004,outside,na,(20-50)
+7069,201353,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,50-64,Female,Mountain,31,Outdoor,464.8,0.004,outside,na,(20-50)
+7070,201353,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,>=75,Female,Mountain,33,Outdoor,25.6,0.004,outside,na,(20-50)
+7071,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,15-29,Female,Mountain,31,Outdoor,2.3,0.004,outside,Yes,(10-20)
+7072,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Male,Mountain,11,Outdoor,13.8,0.004,outside,Yes,(10-20)
+7073,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Male,Mountain,31,Outdoor,51.3,0.004,outside,Yes,(10-20)
+7074,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,50-64,Male,Mountain,24,Outdoor,42,0.004,outside,Yes,(10-20)
+7075,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,65-74,Male,Mountain,11,Building,53.9,0.004,outside,Yes,(10-20)
+7076,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,15-29,Male,Mountain,11,Building,38.7,0.004,outside,Yes,(10-20)
+7077,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Male,Mountain,11,Building,411.7,0.004,outside,Yes,(10-20)
+7078,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,<=14,Female,Mountain,11,Outdoor,411,0.004,outside,Yes,(10-20)
+7079,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Male,Mountain,24,Outdoor,94.8,0.004,outside,Yes,(10-20)
+7080,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,65-74,Female,Mountain,11,Outdoor,76.4,0.004,outside,Yes,(10-20)
+7081,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,15-29,Female,Mountain,11,Building,63.9,0.004,outside,Yes,(10-20)
+7082,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Male,Mountain,24,Building,99.6,0.004,outside,Yes,(10-20)
+7083,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,15-29,Female,Mountain,24,Outdoor,391.1,0.004,outside,Yes,(10-20)
+7084,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Male,Mountain,31,Outdoor,297,0.004,outside,Yes,(10-20)
+7085,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,15-29,Female,Mountain,24,Outdoor,350.6,0.004,outside,Yes,(10-20)
+7086,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,15-29,Female,Mountain,24,Outdoor,377.9,0.004,outside,Yes,(10-20)
+7087,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Female,Mountain,11,Building,238.4,0.004,outside,Yes,(10-20)
+7088,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Male,Mountain,31,Building,290.5,0.004,outside,Yes,(10-20)
+7089,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,>=75,Female,Mountain,24,Outdoor,297.7,0.004,outside,Yes,(10-20)
+7090,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,50-64,Male,Mountain,11,Outdoor,318,0.004,outside,Yes,(10-20)
+7091,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,15-29,Female,Mountain,11,Outdoor,213.4,0.004,outside,Yes,(10-20)
+7092,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Male,Mountain,24,Outdoor,152.9,0.004,outside,Yes,(10-20)
+7093,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,>=75,Male,Mountain,24,Outdoor,151,0.004,outside,Yes,(10-20)
+7094,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,50-64,Female,Mountain,11,Outdoor,132.3,0.004,outside,Yes,(10-20)
+7095,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,50-64,Male,Mountain,31,Outdoor,105.5,0.004,outside,Yes,(10-20)
+7096,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,<=14,Female,Mountain,24,Outdoor,104.3,0.004,outside,Yes,(10-20)
+7097,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,50-64,Female,Mountain,31,Outdoor,118.3,0.004,outside,Yes,(10-20)
+7098,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Male,Mountain,31,Outdoor,102.3,0.004,outside,Yes,(10-20)
+7099,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Female,Mountain,24,Outdoor,124.4,0.004,outside,Yes,(10-20)
+7100,201305,7/8/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Male,Mountain,11,Outdoor,173.4,0.004,outside,Yes,(10-20)
+7101,203532,9/8/2015,Piemonte,Biella,Campiglia Cervo,Cervo,50-64,Male,Mountain,31,River,11.9,0.007,H,na,<2
+7102,203532,9/8/2015,Piemonte,Biella,Campiglia Cervo,Cervo,15-29,Male,Mountain,31,River,4.2,0.007,H,na,<2
+7103,203532,9/8/2015,Piemonte,Biella,Campiglia Cervo,Cervo,30-49,Female,Mountain,31,River,0,0.004,H,na,<2
+7104,203532,9/8/2015,Piemonte,Biella,Campiglia Cervo,Cervo,<=14,Male,Mountain,31,Outdoor,10.9,0.007,H,na,<2
+7105,203532,9/8/2015,Piemonte,Biella,Campiglia Cervo,Cervo,30-49,Female,Mountain,31,Outdoor,17.7,0.007,H,na,<2
+7106,203532,9/8/2015,Piemonte,Biella,Campiglia Cervo,Cervo,<=14,Male,Mountain,11,River,13.9,0.004,H,na,<2
+7107,203532,9/8/2015,Piemonte,Biella,Campiglia Cervo,Cervo,15-29,Female,Mountain,11,River,19.6,0.003,H,na,<2
+7108,203532,9/8/2015,Piemonte,Biella,Campiglia Cervo,Cervo,65-74,Female,Mountain,31,Outdoor,23.5,0.004,H,na,<2
+7109,203532,9/8/2015,Piemonte,Biella,Campiglia Cervo,Cervo,<=14,Female,Mountain,31,Outdoor,28.7,0.007,H,na,<2
+7110,203532,9/8/2015,Piemonte,Biella,Campiglia Cervo,Cervo,>=75,Female,Mountain,31,River,42.3,0.007,H,na,<2
+7111,201566,8/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,<=14,Male,Mountain,24,Outdoor,49.7,0.011,H,Yes,<2
+7112,201566,8/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,<=14,Male,Mountain,21,River,0,0.023,H,Yes,<2
+7113,201566,8/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,<=14,Female,Mountain,33,Outdoor,92.9,0.011,H,Yes,<2
+7114,201566,8/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,<=14,Male,Mountain,33,Outdoor,348.5,0.023,H,Yes,<2
+7115,201566,8/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,15-29,Female,Mountain,32,Outdoor,286.7,0.046,H,Yes,<2
+7116,201566,8/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,30-49,Female,Mountain,24,Outdoor,221.5,0.046,H,Yes,<2
+7117,201566,8/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,30-49,Female,Mountain,24,Outdoor,311.2,0.046,H,Yes,<2
+7118,201566,8/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,30-49,Male,Mountain,21,Outdoor,736.4,0.011,H,Yes,<2
+7119,201566,8/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,<=14,Male,Mountain,24,Outdoor,752.7,0.023,H,Yes,<2
+7120,201566,8/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,<=14,Male,Mountain,32,Outdoor,794.2,0.011,H,Yes,<2
+7121,202951,11/8/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,>=75,Male,Mountain,31,Building,92.8,0.002,outside,na,(20-50)
+7122,202952,12/8/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,>=75,Male,Mountain,31,River,48.2,0.002,outside,na,(20-50)
+7123,202953,13/08/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,>=75,Female,Mountain,31,Outdoor,36.9,0.002,outside,na,(20-50)
+7124,202954,14/08/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,30-49,Male,Mountain,31,Outdoor,194.5,0.002,outside,na,(20-50)
+7125,202955,15/08/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,65-74,Male,Mountain,31,Outdoor,117.5,0.002,outside,na,(20-50)
+7126,202956,16/08/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,>=75,Female,Mountain,31,Outdoor,242.6,0.002,outside,na,(20-50)
+7127,202957,17/08/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,50-64,Female,Mountain,31,Outdoor,331.6,0.002,outside,na,(20-50)
+7128,202958,18/08/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,50-64,Male,Mountain,31,Outdoor,383.7,0.002,outside,na,(20-50)
+7129,202959,19/08/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,50-64,Female,Mountain,31,Outdoor,359.8,0.002,outside,na,(20-50)
+7130,202960,20/08/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,<=14,Female,Mountain,31,Outdoor,231.1,0.002,outside,na,(20-50)
+7131,201727,8/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,<=14,Female,Mountain,12,Building,117.5,0.013,outside,Yes,(100-200)
+7132,201727,8/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,>=75,Male,Mountain,23,Outdoor,114.2,0.013,outside,Yes,(100-200)
+7133,201727,8/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,>=75,Female,Mountain,11,Building,119.6,0.013,outside,Yes,(100-200)
+7134,201727,8/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,50-64,Male,Mountain,31,Building,142.9,0.013,outside,Yes,(100-200)
+7135,201727,8/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,15-29,Male,Mountain,32,Building,145.5,0.013,outside,Yes,(100-200)
+7136,201727,8/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,30-49,Female,Mountain,24,River,147.9,0.013,outside,Yes,(100-200)
+7137,201727,8/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,30-49,Male,Mountain,23,Outdoor,173.1,0.013,outside,Yes,(100-200)
+7138,201727,8/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,50-64,Female,Mountain,24,River,42.4,0.013,outside,Yes,(100-200)
+7139,201727,8/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,<=14,Female,Mountain,31,Outdoor,89.4,0.013,outside,Yes,(100-200)
+7140,201727,8/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,15-29,Male,Mountain,24,Outdoor,83.3,0.013,outside,Yes,(100-200)
+7141,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,>=75,Male,Mountain,31,River,0,0.005,H,na,(20-50)
+7142,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,30-49,Female,Mountain,31,River,14.8,0.005,H,na,(20-50)
+7143,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,65-74,Female,Mountain,24,River,12.7,0.005,H,na,(20-50)
+7144,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,65-74,Female,Mountain,24,Building,0,0.005,H,na,(20-50)
+7145,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,>=75,Female,Mountain,24,Building,20.5,0.008,H,na,(20-50)
+7146,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,30-49,Male,Mountain,31,River,27.6,0.005,H,na,(20-50)
+7147,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,<=14,Male,Mountain,31,Campsite,21.7,0.008,H,na,(20-50)
+7148,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,<=14,Male,Mountain,31,River,27.4,0.008,H,na,(20-50)
+7149,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,<=14,Male,Mountain,31,River,52.2,0.005,H,na,(20-50)
+7150,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,50-64,Male,Mountain,31,River,48.6,0.008,H,na,(20-50)
+7151,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,<=14,Male,Mountain,31,River,0,0.005,H,na,(20-50)
+7152,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,50-64,Female,Mountain,31,River,14.4,0.008,H,na,(20-50)
+7153,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,30-49,Male,Mountain,24,River,3.8,0.008,H,na,(20-50)
+7154,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,50-64,Male,Mountain,24,River,7.3,0.005,H,na,(20-50)
+7155,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,50-64,Male,Mountain,31,River,8.3,0.005,H,na,(20-50)
+7156,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,<=14,Male,Mountain,24,River,11.4,0.005,H,na,(20-50)
+7157,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,65-74,Female,Mountain,31,River,7.8,0.005,H,na,(20-50)
+7158,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,<=14,Female,Mountain,31,River,1.4,0.008,H,na,(20-50)
+7159,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,<=14,Male,Mountain,31,River,88.9,0.008,H,na,(20-50)
+7160,201352,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,65-74,Male,Mountain,31,River,149.2,0.008,H,na,(20-50)
+7161,201708,8/7/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,>=75,Female,Mountain,31,Outdoor,28.6,0.008,outside,Yes,(50-100)
+7162,201708,8/7/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,65-74,Female,Mountain,51,Outdoor,50,0.005,outside,Yes,(50-100)
+7163,201708,8/7/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,<=14,Male,Mountain,31,Outdoor,83.4,0.008,outside,Yes,(50-100)
+7164,201708,8/7/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,30-49,Male,Mountain,32,River,22.5,0.008,outside,Yes,(50-100)
+7165,201708,8/7/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,50-64,Male,Mountain,11,Outdoor,46.6,0.005,outside,Yes,(50-100)
+7166,201708,8/7/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,<=14,Female,Mountain,11,Outdoor,79.6,0.005,outside,Yes,(50-100)
+7167,201708,8/7/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,<=14,Male,Mountain,31,Outdoor,83.4,0.008,outside,Yes,(50-100)
+7168,201708,8/7/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,50-64,Male,Mountain,31,Outdoor,79.1,0.005,outside,Yes,(50-100)
+7169,201708,8/7/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,30-49,Male,Mountain,24,Outdoor,95.7,0.005,outside,Yes,(50-100)
+7170,201708,8/7/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,65-74,Female,Mountain,11,Outdoor,85,0.008,outside,Yes,(50-100)
+7171,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,50-64,Male,Mountain,31,Outdoor,237.1,0.01,H,Yes,>200
+7172,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,30-49,Female,Mountain,31,Outdoor,251.5,0.01,H,Yes,>200
+7173,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,<=14,Female,Mountain,31,Outdoor,243.1,0.01,H,Yes,>200
+7174,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,30-49,Male,Mountain,23,Outdoor,93.4,0.01,H,Yes,>200
+7175,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,30-49,Male,Mountain,32,Outdoor,169.5,0.01,H,Yes,>200
+7176,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,30-49,Female,Mountain,31,Outdoor,192.6,0.01,H,Yes,>200
+7177,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,30-49,Male,Mountain,31,Outdoor,175.5,0.01,H,Yes,>200
+7178,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,50-64,Female,Mountain,31,Outdoor,61.5,0.01,H,Yes,>200
+7179,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,<=14,Female,Mountain,31,Outdoor,81.8,0.01,H,Yes,>200
+7180,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,15-29,Male,Mountain,31,Outdoor,28.2,0.01,H,Yes,>200
+7181,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,50-64,Female,Mountain,31,Outdoor,23.7,0.01,L,Yes,>200
+7182,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,30-49,Male,Mountain,24,Outdoor,88.1,0.01,L,Yes,>200
+7183,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,65-74,Female,Mountain,31,Outdoor,66,0.01,L,Yes,>200
+7184,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,65-74,Female,Mountain,11,Outdoor,139.3,0.01,L,Yes,>200
+7185,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,50-64,Female,Mountain,11,Outdoor,195.9,0.01,L,Yes,>200
+7186,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,<=14,Male,Mountain,31,Outdoor,166.7,0.01,L,Yes,>200
+7187,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,30-49,Female,Mountain,31,Outdoor,302.2,0.01,L,Yes,>200
+7188,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,15-29,Male,Mountain,33,Building,232.1,0.01,L,Yes,>200
+7189,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,>=75,Female,Mountain,33,Outdoor,262.3,0.01,L,Yes,>200
+7190,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,<=14,Male,Mountain,33,Outdoor,331.6,0.01,L,Yes,>200
+7191,201354,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,50-64,Male,Mountain,31,River,74.4,0.001,outside,na,(20-50)
+7192,201354,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,<=14,Female,Mountain,24,Building,44.8,0.001,outside,na,(20-50)
+7193,201354,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,<=14,Female,Mountain,24,Outdoor,587.8,0.001,outside,na,(20-50)
+7194,201354,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,<=14,Female,Mountain,32,Building,531.7,0.001,outside,na,(20-50)
+7195,201354,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,50-64,Female,Mountain,11,Building,395.4,0.001,outside,na,(20-50)
+7196,201354,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,50-64,Female,Mountain,11,Building,221.5,0.001,outside,na,(20-50)
+7197,201354,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,50-64,Female,Mountain,24,Outdoor,71.4,0.001,outside,na,(20-50)
+7198,201354,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,<=14,Male,Mountain,31,Outdoor,149.8,0.001,outside,na,(20-50)
+7199,201354,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,15-29,Male,Mountain,11,Outdoor,13.7,0.001,outside,na,(20-50)
+7200,201354,11/9/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,50-64,Male,Mountain,24,Outdoor,598.1,0.001,outside,na,(20-50)
+7201,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Male,Mountain,11,Outdoor,7.6,0.031,L,Yes,(50-100)
+7202,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,>=75,Female,Mountain,11,Outdoor,3.3,0.04,L,Yes,(50-100)
+7203,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Male,Plain,24,Outdoor,7.2,0.04,L,Yes,(50-100)
+7204,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,>=75,Male,Plain,12,River,48.7,0.04,L,Yes,(50-100)
+7205,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,<=14,Male,Mountain,11,Outdoor,46.7,0.031,L,Yes,(50-100)
+7206,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,30-49,Female,Mountain,11,River,42.5,0.031,L,Yes,(50-100)
+7207,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Male,Mountain,12,Outdoor,51.4,0.031,L,Yes,(50-100)
+7208,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,<=14,Male,Mountain,11,River,27.7,0.04,H,Yes,(50-100)
+7209,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,30-49,Male,Mountain,21,Outdoor,18.7,0.04,L,Yes,(50-100)
+7210,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,15-29,Female,Mountain,12,Building,24.4,0.04,L,Yes,(50-100)
+7211,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Female,Mountain,11,Building,23.2,0.031,L,Yes,(50-100)
+7212,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,>=75,Female,Mountain,12,Outdoor,29.3,0.04,L,Yes,(50-100)
+7213,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Male,Mountain,12,Bridge,28.2,0.04,L,Yes,(50-100)
+7214,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,30-49,Male,Mountain,21,Outdoor,21.2,0.04,L,Yes,(50-100)
+7215,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Female,Mountain,12,Outdoor,26,0.04,L,Yes,(50-100)
+7216,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,30-49,Male,Mountain,11,Outdoor,29.8,0.04,L,Yes,(50-100)
+7217,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,65-74,Female,Mountain,12,River,104.8,0.031,L,Yes,(50-100)
+7218,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,15-29,Female,Plain,11,Outdoor,185.5,0.031,L,Yes,(50-100)
+7219,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,30-49,Female,Plain,11,Outdoor,161.2,0.04,L,Yes,(50-100)
+7220,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,<=14,Female,Mountain,11,Outdoor,188.5,0.04,H,Yes,(50-100)
+7221,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,<=14,Male,Plain,11,River,133.9,0.031,H,Yes,(50-100)
+7222,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,>=75,Female,Mountain,24,River,196.4,0.031,L,Yes,(50-100)
+7223,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,65-74,Male,Mountain,21,River,190.7,0.031,L,Yes,(50-100)
+7224,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,30-49,Female,Mountain,21,River,137.7,0.031,L,Yes,(50-100)
+7225,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,30-49,Female,Mountain,21,Building,78.8,0.031,H,Yes,(50-100)
+7226,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,>=75,Male,Mountain,12,Building,87.3,0.031,H,Yes,(50-100)
+7227,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,30-49,Male,Mountain,12,Building,83.4,0.031,L,Yes,(50-100)
+7228,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Female,Plain,11,Building,61.9,0.031,L,Yes,(50-100)
+7229,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,30-49,Male,Mountain,11,Building,501.7,0.04,L,Yes,(50-100)
+7230,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,>=75,Female,Mountain,21,Building,478.6,0.04,L,Yes,(50-100)
+7231,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,15-29,Male,Mountain,11,Building,217.9,0.031,L,Yes,(50-100)
+7232,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,<=14,Female,Mountain,12,Building,397.6,0.04,L,Yes,(50-100)
+7233,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Male,Mountain,11,Building,218.6,0.04,H,Yes,(50-100)
+7234,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,15-29,Female,Plain,11,Building,245.5,0.04,L,Yes,(50-100)
+7235,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Female,Mountain,12,Building,264.5,0.04,L,Yes,(50-100)
+7236,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,15-29,Male,Mountain,12,Outdoor,263.9,0.04,L,Yes,(50-100)
+7237,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,>=75,Female,Mountain,21,Outdoor,316.7,0.031,L,Yes,(50-100)
+7238,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,15-29,Male,Plain,12,River,289.3,0.04,L,Yes,(50-100)
+7239,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,<=14,Male,Mountain,11,River,283.6,0.04,L,Yes,(50-100)
+7240,201288,7/10/1977,Piemonte,Alessandria,Tortona,Ossona,>=75,Female,Mountain,21,River,16,0.04,L,Yes,(50-100)
+7241,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,50-64,Male,Mountain,31,Outdoor,12.2,0.006,outside,Yes,>200
+7242,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,>=75,Male,Mountain,11,Outdoor,4.9,0.006,outside,Yes,>200
+7243,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,30-49,Female,Mountain,11,River,11.1,0.003,outside,Yes,>200
+7244,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,30-49,Male,Mountain,11,Building,7.9,0.008,outside,Yes,>200
+7245,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,30-49,Female,Mountain,24,Outdoor,24.2,0.003,outside,Yes,>200
+7246,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,<=14,Male,Mountain,31,Outdoor,23.5,0.008,outside,Yes,>200
+7247,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,>=75,Female,Mountain,24,River,41.5,0.008,outside,Yes,>200
+7248,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,15-29,Male,Mountain,24,Bridge,49.1,0.006,outside,Yes,>200
+7249,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,15-29,Female,Mountain,11,Outdoor,52.2,0.008,outside,Yes,>200
+7250,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,65-74,Male,Mountain,11,River,51.3,0.006,outside,Yes,>200
+7251,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,65-74,Male,Plain,21,Outdoor,0,0,M,na,(100-200)
+7252,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,30-49,Male,Plain,21,Outdoor,18.2,0,H,na,(100-200)
+7253,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,50-64,Female,Plain,21,Outdoor,0,0,M,na,(100-200)
+7254,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,30-49,Male,Plain,21,River,18.2,0,M,na,(100-200)
+7255,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,30-49,Male,Plain,21,Outdoor,4.3,0,M,na,(100-200)
+7256,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,30-49,Female,Plain,21,Outdoor,3.6,0,M,na,(100-200)
+7257,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,30-49,Female,Plain,21,Outdoor,9.1,0,H,na,(100-200)
+7258,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,15-29,Male,Plain,21,Outdoor,8.3,0,M,na,(100-200)
+7259,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,15-29,Male,Plain,11,Outdoor,3.2,0,M,na,(100-200)
+7260,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,>=75,Male,Plain,11,River,5.1,0,H,na,(100-200)
+7261,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,65-74,Male,Plain,21,Outdoor,5.8,0,H,na,(100-200)
+7262,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,15-29,Male,Plain,21,River,10.7,0,M,na,(100-200)
+7263,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,>=75,Male,Plain,21,Outdoor,9.3,0,M,na,(100-200)
+7264,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,<=14,Male,Plain,21,River,8.8,0,H,na,(100-200)
+7265,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,>=75,Female,Plain,21,River,13.2,0,H,na,(100-200)
+7266,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,15-29,Male,Plain,24,Outdoor,11.2,0,M,na,(100-200)
+7267,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,65-74,Female,Plain,21,River,3,0,M,na,(100-200)
+7268,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,30-49,Male,Plain,21,Outdoor,10.3,0,M,na,(100-200)
+7269,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,<=14,Female,Plain,21,Outdoor,5.5,0,M,na,(100-200)
+7270,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,30-49,Female,Plain,21,River,19,0,H,na,(100-200)

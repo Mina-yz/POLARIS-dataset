@@ -1,0 +1,128 @@
+ID,N.event,Event.date,Region,Province,Municipality,River,Age class,Gender,MorphologicalZone,Corine class,Place,Distance,Density,CodScen,Solid,ReturnPeriod
+3844,201872,14/10/2000,Piemonte,Torino,Torino,Stura di Lanzo,<=14,Female,Plain,33,Outdoor,0.0,0.189,H,Yes,>200
+3829,201955,27/11/2002,Lombardia,Monza e della Brianza,Monza,Lambro,30-49,Male,Plain,11,River,5.0,0.139,H,na,(2-5)
+3385,201510,02/06/1992,Lombardia,Varese,Castronno,Arno,50-64,Male,Plain,31,Outdoor,780.0,0.109,H,na,<2
+3757,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,11,Bridge,0.0,0.086,L,na,(2-5)
+3756,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,11,Bridge,0.0,0.086,L,na,(2-5)
+3758,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Female,Plain,11,Bridge,0.0,0.086,L,na,(2-5)
+3760,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,15-29,Male,Plain,11,Bridge,0.0,0.086,L,na,(2-5)
+3759,201311,27/01/1979,Lombardia,Bergamo,Brembate,Brembo,30-49,Female,Plain,11,Bridge,0.0,0.086,L,na,(2-5)
+3828,203517,13/11/2000,Lombardia,Bergamo,Brembate,Brembo,30-49,Male,Plain,11,River,0.0,0.086,H,na,5
+3869,201739,15/10/1996,Lombardia,Monza e della Brianza,Ceriano Laghetto,Guisa,65-74,Male,Plain,11,River,181.0,0.085,outside,na,(2-5)
+2970,201561,23/09/1993,Lombardia,Cremona,Crema,Serio,15-29,Male,Plain,51,River,0.0,0.063,H,na,5
+4051,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,15-29,Female,Plain,14,Bridge,16.0,0.062,outside,Yes,<2
+4049,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,15-29,Male,Plain,14,Bridge,16.0,0.062,outside,Yes,<2
+4050,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,15-29,Male,Plain,14,Bridge,16.0,0.062,outside,Yes,<2
+4048,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,50-64,Female,Plain,14,Bridge,16.0,0.062,outside,Yes,<2
+4047,203562,14/07/1973,Piemonte,Torino,Venaria Reale,Stura di Lanzo,50-64,Male,Plain,14,Bridge,16.0,0.062,outside,Yes,<2
+2406,201634,04/11/1994,Piemonte,Torino,Santena,Riano,>=75,Female,Plain,21,Building,7.0,0.052,H,Yes,(100-200)
+2971,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,65-74,Female,Plain,21,Outdoor,93.0,0.048,H,No,5
+2972,201552,25/09/1993,Piemonte,Torino,Banchette,Dora Baltea,65-74,Male,Plain,21,Outdoor,93.0,0.048,H,No,5
+2421,201626,04/11/1994,Piemonte,Asti,Canelli,Belbo,>=75,Female,Mountain,22,Building,35.8,0.048,L,Yes,(100-200)
+2422,201626,04/11/1994,Piemonte,Asti,Canelli,Belbo,>=75,Male,Mountain,22,Building,35.8,0.048,L,Yes,(100-200)
+2285,201425,18/07/1987,Lombardia,Sondrio,Morbegno,Adda,15-29,Male,Plain,51,Outdoor,20.3,0.045,H,Yes,>200
+2393,201623,04/11/1994,Piemonte,Cuneo,Alba,Tanaro,<=14,Male,Plain,12,Building,497.0,0.042,L,Yes,(100-200)
+2387,203039,04/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Male,Plain,12,Outdoor,0.0,0.042,H,Yes,(100-200)
+2392,201623,04/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Female,Plain,12,Building,497.0,0.042,L,Yes,(100-200)
+2394,201625,04/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Male,Plain,21,Building,684.0,0.042,M,Yes,(100-200)
+2395,201625,04/11/1994,Piemonte,Cuneo,Alba,Tanaro,15-29,Female,Plain,21,Building,684.0,0.042,M,Yes,(100-200)
+2388,203039,04/11/1994,Piemonte,Cuneo,Alba,Tanaro,30-49,Male,Plain,12,Outdoor,196.5,0.042,H,Yes,(100-200)
+2390,201624,04/11/1994,Piemonte,Cuneo,Alba,Tanaro,65-74,Female,Plain,12,Building,606.0,0.042,outside,Yes,(100-200)
+2391,201624,04/11/1994,Piemonte,Cuneo,Alba,Tanaro,>=75,Female,Plain,12,Building,606.0,0.042,outside,Yes,(100-200)
+3583,203448,15/11/2014,Piemonte,Cuneo,Alba,Talloria,15-29,Female,Mountain,21,Outdoor,35.0,0.042,L,No,(20-50)
+3105,203048,18/07/2009,Lombardia,Lecco,Civate,Toscio,65-74,Male,Mountain,11,Outdoor,7.0,0.039,outside,na,(20-50)
+3415,202959,27/06/1997,Lombardia,Bergamo,Costa Volpino,Oglio,30-49,Male,Mountain,21,Building,230.0,0.037,H,na,(50-100)
+3792,201290,07/10/1977,Piemonte,Alessandria,Alessandria,Bormida,30-49,Male,Plain,11,Outdoor,1865.0,0.032,H,Yes,>200
+2408,201583,04/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Female,Mountain,11,Outdoor,468.0,0.032,L,Yes,(100-200)
+2409,201583,04/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,30-49,Male,Mountain,11,Building,468.0,0.032,L,Yes,(100-200)
+2410,201583,04/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,50-64,Female,Mountain,11,Outdoor,468.0,0.032,L,Yes,(100-200)
+2418,201584,04/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,65-74,Male,Mountain,11,Building,313.0,0.032,L,Yes,(100-200)
+2411,201583,04/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Female,Mountain,11,Outdoor,468.0,0.032,L,Yes,(100-200)
+2412,201583,04/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Male,Mountain,11,Outdoor,468.0,0.032,L,Yes,(100-200)
+2414,201583,04/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,65-74,Male,Mountain,11,Building,468.0,0.032,L,Yes,(100-200)
+2417,201584,04/11/1994,Piemonte,Alessandria,Alessandria,Nuovo di Loreto,65-74,Female,Mountain,11,Building,313.0,0.032,L,Yes,(100-200)
+2416,201583,04/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,11,Building,468.0,0.032,L,Yes,(100-200)
+2415,201583,04/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Female,Mountain,11,Building,468.0,0.032,L,Yes,(100-200)
+2413,201583,04/11/1994,Piemonte,Alessandria,Alessandria,Tanaro,>=75,Male,Mountain,11,Building,468.0,0.032,L,Yes,(100-200)
+3787,201288,07/10/1977,Piemonte,Alessandria,Tortona,Ossona,15-29,Male,Mountain,11,Building,1076.0,0.031,L,Yes,(50-100)
+3786,201288,07/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Male,Mountain,11,Building,1076.0,0.031,L,Yes,(50-100)
+3789,201288,07/10/1977,Piemonte,Alessandria,Tortona,Ossona,50-64,Male,Mountain,11,Building,1076.0,0.031,L,Yes,(50-100)
+3788,201288,07/10/1977,Piemonte,Alessandria,Tortona,Ossona,>=75,Male,Mountain,11,Building,1076.0,0.031,L,Yes,(50-100)
+3039,201869,14/10/2000,Piemonte,Torino,Castellamonte,Orco,30-49,Male,Plain,21,Outdoor,1139.0,0.028,outside,Yes,>200
+2419,201627,04/11/1994,Piemonte,Torino,Castellamonte,Orco,>=75,Female,Plain,21,Bridge,1405.0,0.028,outside,Yes,(100-200)
+3089,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,15-29,Male,Mountain,24,River,96.0,0.024,outside,na,<2
+3090,202979,30/11/2008,Piemonte,Alessandria,Ovada,Stura di Ovada,15-29,Male,Mountain,24,River,96.0,0.024,outside,na,<2
+2400,201631,04/11/1994,Piemonte,Cuneo,Monchiero,Tanaro,15-29,Female,Mountain,11,Outdoor,0.0,0.022,H,Yes,(100-200)
+217,203125,11/06/2011,Emilia-Romagna,Parma,Sala Baganza,Scodogna,50-64,Male,Plain,24,Building,70.5,0.022,outside,na,<2
+3877,201577,02/02/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,<=14,Female,Mountain,13,Campsite,125.7,0.022,M,na,(20-50)
+3879,201577,02/02/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,15-29,Female,Mountain,13,Campsite,125.7,0.022,M,na,(20-50)
+3878,201577,02/02/1994,Emilia-Romagna,Parma,Montechiarugolo,Enza,30-49,Male,Mountain,13,Campsite,125.7,0.022,M,na,(20-50)
+3358,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Male,Mountain,24,Bridge,2.0,0.021,H,Yes,(2-5)
+3359,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Male,Mountain,24,Bridge,2.0,0.021,H,Yes,(2-5)
+3360,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Female,Mountain,24,Bridge,2.0,0.021,H,Yes,(2-5)
+3355,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Male,Mountain,24,Bridge,2.0,0.021,H,Yes,(2-5)
+3357,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Female,Mountain,24,Bridge,2.0,0.021,H,Yes,(2-5)
+3354,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,15-29,Male,Mountain,24,Bridge,2.0,0.021,H,Yes,(2-5)
+3356,201276,19/05/1977,Piemonte,Torino,Bricherasio,Pellice,50-64,Male,Mountain,24,Bridge,2.0,0.021,H,Yes,(2-5)
+2435,201590,04/11/1994,Piemonte,Cuneo,Farigliano,Tanaro,65-74,Male,Mountain,51,Outdoor,10.3,0.021,H,Yes,(100-200)
+3388,203124,05/06/2011,Lombardia,Pavia,Santa Maria della Versa,Versa,>=75,Female,Plain,11,Building,39.0,0.02,outside,na,(2-5)
+2399,201632,04/11/1994,Piemonte,Cuneo,Narzole,Tanaro,30-49,Male,Mountain,51,Outdoor,38.0,0.018,H,Yes,(100-200)
+3871,201733,08/10/1996,Emilia-Romagna,Bologna,Sala Bolognese, Reno,65-74,Male,Plain,13,Outdoor,282.0,0.017,H,na,(20-50)
+2434,201630,04/11/1994,Piemonte,Cuneo,Dogliani,Rea,65-74,Female,Mountain,11,Bridge,0.0,0.017,outside,Yes,(100-200)
+3594,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,15-29,Female,Mountain,11,Building,265.5,0.016,L,na,(20-50)
+3593,201193,18/09/1973,Emilia-Romagna,Parma,Salsomaggiore Terme,Ghiara,>=75,Female,Mountain,11,Building,265.5,0.016,L,na,(20-50)
+3579,203446,12/11/2014,Lombardia,Cremona,Moscazzano,Adda,30-49,Male,Plain,21,River,1927.0,0.016,outside,na,(10-20)
+3790,201286,07/10/1977,Piemonte,Asti,Incisa Scapaccino, Belbo,50-64,Male,Mountain,11,Outdoor,408.6,0.016,L,Yes,<2
+2385,201629,04/11/1994,Piemonte,Vercelli,Crescentino,il Po,15-29,Female,Mountain,11,River,0.0,0.016,L,Yes,(100-200)
+2386,201629,04/11/1994,Piemonte,Vercelli,Crescentino,il Po,15-29,Female,Mountain,11,River,0.0,0.016,L,Yes,(100-200)
+2427,201633,04/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Male,Mountain,51,Bridge,0.0,0.014,outside,Yes,(100-200)
+2430,201633,04/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,15-29,Male,Mountain,51,Bridge,0.0,0.014,outside,Yes,(100-200)
+2428,201633,04/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,51,Bridge,0.0,0.014,outside,Yes,(100-200)
+2429,201633,04/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,51,Bridge,0.0,0.014,outside,Yes,(100-200)
+2431,201633,04/11/1994,Piemonte,Cuneo,Piozzo,Tanaro,30-49,Male,Mountain,51,Bridge,0.0,0.014,outside,Yes,(100-200)
+4153,203686,21/10/2019,Piemonte,Alessandria,Capriata dOrba,Orba,50-64,Male,Mountain,21,Outdoor,31.3,0.014,L,na,(2-5)
+3872,201727,08/10/1996,Piemonte,Cuneo,Roccavione,Vermenagna,30-49,Male,Mountain,11,Outdoor,194.0,0.013,outside,Yes,(100-200)
+3886,201566,08/10/1993,Piemonte,Alessandria,Stazzano,Tributary of Scrivia,15-29,Male,Mountain,24,Outdoor,0.0,0.011,H,Yes,<2
+2424,201589,04/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,<=14,Male,Mountain,51,Bridge,0.0,0.01,H,Yes,(100-200)
+2425,201589,04/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,30-49,Male,Mountain,51,Bridge,0.0,0.01,H,Yes,(100-200)
+2423,201589,04/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,50-64,Male,Mountain,51,Bridge,0.0,0.01,H,Yes,(100-200)
+2426,201589,04/11/1994,Piemonte,Cuneo,Clavesana,Tanaro,65-74,Male,Mountain,51,Bridge,0.0,0.01,H,Yes,(100-200)
+3036,203313,14/10/2000,Valle dAosta,Aosta,Antey-Saint-Andre,Marmore,65-74,Male,Mountain,31,Outdoor,79.0,0.01,outside,Yes,(100-200)
+3166,203314,14/10/2000,Piemonte,Torino,Perosa Argentina,Tributary of Chisone,50-64,Male,Mountain,31,Outdoor,58.3,0.01,H,Yes,>200
+4067,203567,24/11/2016,Piemonte,Torino,Perosa Argentina,Rio Albona,65-74,Male,Mountain,24,Outdoor,362.0,0.01,L,Yes,>200
+2407,201599,04/11/1994,Piemonte,Cuneo,Bastia Mondovi,Tanaro,50-64,Male,Mountain,24,Outdoor,46.5,0.009,H,Yes,(100-200)
+4099,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,15-29,Male,Mountain,31,Outdoor,0.0,0.009,outside,Yes,(20-50)
+4100,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,15-29,Female,Mountain,31,Outdoor,0.0,0.009,outside,Yes,(20-50)
+4098,203610,14/10/1979,Piemonte,Verbano-Cusio-Ossola,Masera,Melezzo occidentale,50-64,Male,Mountain,31,Outdoor,0.0,0.009,outside,Yes,(20-50)
+2286,201424,18/07/1987,Lombardia,Bergamo,Lenna,Brembo,30-49,Male,Mountain,11,Building,35.0,0.008,L,Yes,>200
+4092,201352,11/09/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,50-64,Female,Mountain,31,Campsite,18.3,0.008,H,na,(20-50)
+4091,201352,11/09/1983,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,50-64,Male,Mountain,31,Campsite,18.3,0.008,H,na,(20-50)
+3438,201708,08/07/1996,Piemonte,Verbano-Cusio-Ossola,Cannobio,Cannobino,30-49,Male,Mountain,31,River,95.0,0.008,outside,Yes,(50-100)
+4155,203711,24/11/2019,Piemonte,Alessandria,Sezzadio,Bormida,50-64,Female,Mountain,51,Outdoor,5.9,0.007,H,na,(10-20)
+3785,201281,07/10/1977,Liguria,Genova,Campo Ligure,Angassino,65-74,Female,Mountain,31,Building,129.0,0.007,outside,Yes,>200
+3784,201281,07/10/1977,Liguria,Genova,Campo Ligure,Angassino,65-74,Female,Mountain,31,Building,129.0,0.007,outside,Yes,>200
+3034,201870,14/10/2000,Valle dAosta,Aosta,Donnas,Dora Baltea,50-64,Male,Mountain,22,Outdoor,164.3,0.007,outside,Yes,(100-200)
+3048,201912,15/07/2002,Piemonte,Cuneo,Chiusa di Pesio,Pesio ,>=75,Male,Mountain,24,Outdoor,27.5,0.006,H,No,(50-100)
+3611,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,30-49,Female,Mountain,24,Outdoor,149.5,0.005,outside,na,5
+3610,201560,25/09/1993,Valle dAosta,Aosta,Chambave,Dora Baltea,30-49,Male,Mountain,24,Outdoor,149.5,0.005,outside,na,5
+2288,203315,18/07/1987,Lombardia,Bergamo,Piazzatorre, Adda,15-29,Female,Plain,31,Outdoor,10.5,0.005,outside,Yes,>200
+3217,201305,07/08/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,30-49,Female,Mountain,11,Building,430.0,0.004,outside,Yes,(10-20)
+3219,201305,07/08/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,65-74,Female,Mountain,11,Building,430.0,0.004,outside,Yes,(10-20)
+3218,201305,07/08/1978,Piemonte,Verbano-Cusio-Ossola,Toceno,Tributary of Melezzo orientale,>=75,Female,Mountain,11,Building,430.0,0.004,outside,Yes,(10-20)
+4030,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,30-49,Male,Mountain,33,Outdoor,41.0,0.004,H,na,>200
+4029,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,50-64,Male,Mountain,33,Outdoor,41.0,0.004,H,na,>200
+4031,203538,14/09/2015,Emilia-Romagna,Piacenza,Bettola, Nure,65-74,Male,Mountain,33,Outdoor,41.0,0.004,H,na,>200
+4026,203532,09/08/2015,Piemonte,Biella,Campiglia Cervo,Cervo,15-29,Male,Mountain,31,Campsite,0.0,0.004,H,na,<2
+4094,201353,11/09/1983,Piemonte,Verbano-Cusio-Ossola,Malesco, Loana,50-64,Male,Mountain,33,Bridge,0.0,0.004,H,na,(20-50)
+3880,202950,10/08/1994,Piemonte,Verbano-Cusio-Ossola,Cossogno,Rio Pogallo,50-64,Male,Mountain,33,River,0.0,0.002,outside,na,(20-50)
+3855,201805,07/08/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,<=14,Female,Mountain,31,Campsite,95.0,0.002,outside,na,<2
+NA,201805,07/08/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,<=14,Female,Plain,31,Campsite,95.0,0.002,outside,na,<2
+3854,201805,07/08/1999,Lombardia,Sondrio,Madesimo,Valle Febbraro,<=14,Female,Plain,31,Campsite,95.0,0.002,outside,na,<2
+2287,203316,18/07/1987,Lombardia,Bergamo,Mezzoldo,Adda,15-29,Male,Plain,31,Outdoor,1.5,0.002,H,Yes,>200
+2289,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,15-29,Female,Plain,23,Outdoor,70.0,0.002,outside,Yes,>200
+2290,201426,18/07/1987,Lombardia,Bergamo,Mezzoldo,Tributary of Brembo,15-29,Male,Plain,23,Outdoor,70.0,0.002,outside,Yes,>200
+3035,201877,14/10/2000,Valle dAosta,Aosta,Aosta, Chalamy,>=75,Male,Mountain,24,Outdoor,182.0,0.002,outside,Yes,(100-200)
+4093,201354,11/09/1983,Piemonte,Verbano-Cusio-Ossola,Craveggia,Rio di Re,30-49,Male,Mountain,11,River,0.0,0.001,outside,na,(20-50)
+4095,203036,02/04/1981,Piemonte,Torino,Ronco Canavese,Soana,30-49,Female,Mountain,23,River,63.2,0.001,outside,na,(10-20)
+3378,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,15-29,Female,Plain,11,Outdoor,14.0,0,L,na,(100-200)
+3379,201233,17/08/1976,Marche,Pesaro e Urbino,Gabicce Mare,Tavollo,65-74,Female,Plain,11,Outdoor,14.0,0,L,na,(100-200)
